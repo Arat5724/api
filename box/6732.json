@@ -1,0 +1,68 @@
+{
+    "id": "6732",
+    "name": "[23.06] ICON The Moment 의뢰 상자 (8강, 95+)",
+    "image": null,
+    "expectedBp": 0.0,
+    "expectedValue": {
+        "[AG][23.06] ICON The Moment 선수팩 (제한)": 0.01,
+        "[AG][23.06] 23HEROES 포함 Top Price 1800 (8강, 95+)": 0.44,
+        "[AG] 행운의 BP 카드 (70억~120억 BP)": 0.55
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "id": -1,
+                "name": "[AG][23.06] ICON The Moment 선수팩 (제한)",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "[AG][23.06] ICON The Moment 선수팩 (제한)": 1
+                }
+            },
+            "amount": 1,
+            "prob": 0.01
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "[AG][23.06] 23HEROES 포함 Top Price 1800 (8강, 95+)",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "[AG][23.06] 23HEROES 포함 Top Price 1800 (8강, 95+)": 1
+                }
+            },
+            "amount": 1,
+            "prob": 0.44
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "[AG] 행운의 BP 카드 (70억~120억 BP)",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "[AG] 행운의 BP 카드 (70억~120억 BP)": 1
+                }
+            },
+            "amount": 1,
+            "prob": 0.55
+        }
+    ]
+}

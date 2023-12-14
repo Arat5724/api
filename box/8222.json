@@ -1,0 +1,105 @@
+{
+    "id": "8222",
+    "name": "[23.12 빌드업] [ICON TM 2%][CC 8강 7%] 상자",
+    "image": null,
+    "expectedBp": 833373692258.9576,
+    "expectedValue": {
+        "bp_player": 905840969846.693
+    },
+    "percentile": {
+        "0": 73416000000000.0,
+        "1": 4857600000000.0,
+        "2": 3496000000000.0,
+        "5": 2649600000000.0,
+        "10": 1683600000000.0,
+        "20": 993600000000.0,
+        "30": 759000000000.0,
+        "40": 552000000000.0,
+        "50": 505080000000.0,
+        "60": 466440000000.0,
+        "70": 402040000000.0,
+        "80": 362480000000.0,
+        "90": 332120000000.0,
+        "100": 263120000000.0
+    },
+    "itemList": [
+        {
+            "item": {
+                "id": "7722",
+                "name": "[일반] ICON TM All 선수팩 (1강)",
+                "image": null,
+                "expectedBp": 2259263254636.5757,
+                "expectedValue": {
+                    "bp_player": 2455720928952.8
+                }
+            },
+            "amount": 1,
+            "prob": 0.02
+        },
+        {
+            "item": {
+                "id": "7723",
+                "name": "CC Top Price 90 선수팩 (8강, 105+)",
+                "image": null,
+                "expectedBp": 2514357861680.8003,
+                "expectedValue": {
+                    "bp_player": 2732997675740.0
+                }
+            },
+            "amount": 1,
+            "prob": 0.07
+        },
+        {
+            "item": {
+                "id": "7724",
+                "name": "FCA, 23HW Top Price 180 선수팩 (8강, 106+)",
+                "image": null,
+                "expectedBp": 1276458258509.616,
+                "expectedValue": {
+                    "bp_player": 1387454628814.7998
+                }
+            },
+            "amount": 1,
+            "prob": 0.17
+        },
+        {
+            "item": {
+                "id": "8175",
+                "name": "HG, RTN 포함 Top Price 1000 선수팩 (8강, 100+)",
+                "image": null,
+                "expectedBp": 554137118711.964,
+                "expectedValue": {
+                    "bp_player": 602322955121.7
+                }
+            },
+            "amount": 1,
+            "prob": 0.3
+        },
+        {
+            "item": {
+                "id": "7726",
+                "name": "JVA, CC 포함 Top Price 190 선수팩 (7강, 106+)",
+                "image": null,
+                "expectedBp": 555903125150.224,
+                "expectedValue": {
+                    "bp_player": 604242527337.2
+                }
+            },
+            "amount": 1,
+            "prob": 0.31
+        },
+        {
+            "item": {
+                "id": "8176",
+                "name": "DC Top Price 40 선수팩 (5강, 108+)",
+                "image": null,
+                "expectedBp": 435495142244.43604,
+                "expectedValue": {
+                    "bp_player": 473364285048.30005
+                }
+            },
+            "amount": 1,
+            "prob": 0.13
+        }
+    ]
+}

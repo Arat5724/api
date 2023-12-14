@@ -1,0 +1,79 @@
+{
+    "id": "1794",
+    "name": "시뮬레이션권 상자",
+    "image": null,
+    "expectedBp": 0.0,
+    "expectedValue": {
+        "시뮬레이션권": 5.0155763245
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "id": -1,
+                "name": "시뮬레이션권",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "시뮬레이션권": 1
+                }
+            },
+            "amount": 3,
+            "prob": 0.031152647999999998
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "시뮬레이션권",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "시뮬레이션권": 1
+                }
+            },
+            "amount": 5,
+            "prob": 0.9345794393
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "시뮬레이션권",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "시뮬레이션권": 1
+                }
+            },
+            "amount": 7,
+            "prob": 0.031152647999999998
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "시뮬레이션권",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "시뮬레이션권": 1
+                }
+            },
+            "amount": 10,
+            "prob": 0.0031152648
+        }
+    ]
+}

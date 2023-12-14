@@ -1,0 +1,54 @@
+{
+    "id": "6731",
+    "name": "[23.06] ICON The Moment 의뢰 상자 (TM)",
+    "image": null,
+    "expectedBp": 0.0,
+    "expectedValue": {
+        "[AG][23.06] ICON The Moment 선수팩": 0.5,
+        "[AG] 행운의 BP 카드 (3,500억~8,000억 BP)": 0.5
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "id": -1,
+                "name": "[AG][23.06] ICON The Moment 선수팩",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "[AG][23.06] ICON The Moment 선수팩": 1
+                }
+            },
+            "amount": 1,
+            "prob": 0.5
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "[AG] 행운의 BP 카드 (3,500억~8,000억 BP)",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "[AG] 행운의 BP 카드 (3,500억~8,000억 BP)": 1
+                }
+            },
+            "amount": 1,
+            "prob": 0.5
+        }
+    ]
+}

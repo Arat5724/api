@@ -1,0 +1,2802 @@
+{
+    "id": "7917",
+    "name": "23KL ALL 선수팩",
+    "image": null,
+    "expectedBp": 15292550.188308675,
+    "expectedValue": {
+        "bp_player": 16622337.161205081
+    },
+    "percentile": {
+        "0": 4057200000.0,
+        "1": 185840000.0,
+        "2": 101200000.0,
+        "5": 75440000.0,
+        "10": 43792000.0,
+        "20": 9476000.0,
+        "30": 1573200.0,
+        "40": 521640.0,
+        "50": 158240.0,
+        "60": 74796.0,
+        "70": 29348.0,
+        "80": 10396.0,
+        "90": 1324.8,
+        "100": 929.2
+    },
+    "playerList": [
+        {
+            "player": {
+                "id": 212260,
+                "name": "황의조",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 91,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 4410000000,
+            "prob": 0.00040584420000000005
+        },
+        {
+            "player": {
+                "id": 225733,
+                "name": "세징야",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 93,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 176000000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 202986,
+                "name": "신진호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 92,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 194000000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 200588,
+                "name": "홍정호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 17800000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 205565,
+                "name": "불투이스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 13300000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 207676,
+                "name": "하파엘 시우바",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 74300000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 213189,
+                "name": "주민규",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 88,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 68900000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 222729,
+                "name": "구스타보",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 41500000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 228861,
+                "name": "일류첸코",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 88,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 42700000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 233018,
+                "name": "김대원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 91,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 74100000,
+            "prob": 0.0020292208000000003
+        },
+        {
+            "player": {
+                "id": 155355,
+                "name": "이청용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 88,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 54000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 180283,
+                "name": "기성용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 89,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 83900000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 193847,
+                "name": "오스마르",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 16800000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 201528,
+                "name": "김영권",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 58900000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 205401,
+                "name": "바코",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 47600000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 208153,
+                "name": "라스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 9370000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 212432,
+                "name": "조현우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 82500000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 227790,
+                "name": "정승현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 66000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 247686,
+                "name": "조규성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 88,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 16
+            },
+            "value": 121000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 179947,
+                "name": "에드가",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 15
+            },
+            "value": 12900000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 187858,
+                "name": "P. 음포쿠",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 334000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 205156,
+                "name": "최영준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1840000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 208636,
+                "name": "이명주",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 88,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 12700000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 209449,
+                "name": "제르소",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 70500000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 213338,
+                "name": "요나탄 링",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 2720000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 232775,
+                "name": "아타루",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 351000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 241970,
+                "name": "델브리지",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 15200000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 243061,
+                "name": "이동준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 8430000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 246937,
+                "name": "엄원상",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 91400000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 268097,
+                "name": "M. 아담",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 87,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 830000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 198080,
+                "name": "아코스티",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 202000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 199183,
+                "name": "김보경",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 20100000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 199231,
+                "name": "김태환",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 99000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 211635,
+                "name": "정운",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 975000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 212439,
+                "name": "임채민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 2250000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 217021,
+                "name": "산드루 리마",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 7560000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 232595,
+                "name": "고승범",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 53000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 237424,
+                "name": "백승호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 48700000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 238097,
+                "name": "나상호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 30100000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 238576,
+                "name": "정태욱",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 20000000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 264324,
+                "name": "다니엘 페냐",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1680000,
+            "prob": 0.0024350649
+        },
+        {
+            "player": {
+                "id": 191657,
+                "name": "임상협",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 196000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 199236,
+                "name": "홍철",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "LWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 5380000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 203002,
+                "name": "김기희",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 380000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 207753,
+                "name": "오반석",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1810000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 208063,
+                "name": "주세종",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 21000000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 211786,
+                "name": "헤이스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 377000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 213317,
+                "name": "김진수",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1710000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 213471,
+                "name": "D. 보야니치",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 6860000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 222582,
+                "name": "김영빈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 200000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228210,
+                "name": "래클랜 잭슨",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 159000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228464,
+                "name": "김진혁",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 458000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 232065,
+                "name": "김동준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 35200,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 244798,
+                "name": "조유민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 26800000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 244800,
+                "name": "김문환",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1080000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 248188,
+                "name": "송민규",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1850000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 256370,
+                "name": "루빅손",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 58500000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 267825,
+                "name": "티아고",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 110000000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 268313,
+                "name": "제카",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 47700000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 273460,
+                "name": "호드리구 바사니",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 10300000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 200601,
+                "name": "윤빛가람",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 463000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202749,
+                "name": "김오규",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 31900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202977,
+                "name": "이종성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 1900000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202994,
+                "name": "한교원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 14
+            },
+            "value": 407000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 203237,
+                "name": "유상훈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 59700,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 208047,
+                "name": "김인성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 755000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 209210,
+                "name": "A. 그랜트",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 3100000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 209839,
+                "name": "티모",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 86,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 21600000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 212066,
+                "name": "이기제",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 2210000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 222229,
+                "name": "양형모",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 78600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 226114,
+                "name": "뮬리치",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 314000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 227787,
+                "name": "김종우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 605000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228130,
+                "name": "오승훈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 561000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 232811,
+                "name": "J. 아마노",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 690000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 238310,
+                "name": "안드레 루이스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 567000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 238354,
+                "name": "하창래",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 477000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 243673,
+                "name": "박진섭",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 883000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 244582,
+                "name": "팔로세비치",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 87300,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 272733,
+                "name": "오베르단",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 12100000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 182152,
+                "name": "구자철",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 107000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 206521,
+                "name": "김현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 43300,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 207730,
+                "name": "백성동",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 629000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 210941,
+                "name": "이창근",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 85,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 35400000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 211004,
+                "name": "한국영",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 73900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 212915,
+                "name": "윤평국",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 18900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 213170,
+                "name": "정재용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 10100,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228461,
+                "name": "류재문",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 21000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228534,
+                "name": "유강현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 43400000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 229343,
+                "name": "완델손",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 78300000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 233671,
+                "name": "안병준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 107000000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 234276,
+                "name": "정재희",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 104000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 238578,
+                "name": "이진현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 18800000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 244837,
+                "name": "이시영",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 78700,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 247270,
+                "name": "알리바예프",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 11600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 254980,
+                "name": "설영우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 8230000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 263034,
+                "name": "안톤",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 44200000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 184901,
+                "name": "신광훈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 29200,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 191980,
+                "name": "윤석영",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 9030,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202970,
+                "name": "정승용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "LWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 10900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 205278,
+                "name": "임창우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 81300,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 208194,
+                "name": "김경중",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 18400,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 210544,
+                "name": "윌리안",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 4690000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 221643,
+                "name": "김도혁",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 842000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 222798,
+                "name": "정우재",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 184000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 226652,
+                "name": "박용우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 83,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 209000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 227788,
+                "name": "안현범",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 19700,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 228009,
+                "name": "이규성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 51100,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 232000,
+                "name": "이승우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 6910000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 233017,
+                "name": "박한빈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 152000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 233581,
+                "name": "송시우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 4570,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 234264,
+                "name": "정승원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 9220,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 237027,
+                "name": "김보섭",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 7470000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 238351,
+                "name": "김동민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 73600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 242004,
+                "name": "전진우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 1260000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 242924,
+                "name": "고재현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 100000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 255500,
+                "name": "서민우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 91900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 260492,
+                "name": "엄지성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 90200000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 263845,
+                "name": "박승욱",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 159000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 191814,
+                "name": "이재성",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 2260,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202974,
+                "name": "신세계",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 30600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 208073,
+                "name": "안영규",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 373000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 212791,
+                "name": "김승대",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 13
+            },
+            "value": 92400,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 212817,
+                "name": "이정협",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 1980,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 221756,
+                "name": "이광혁",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 8360,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 223336,
+                "name": "레안드로",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 82000000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 230742,
+                "name": "마르쿠스 세하투",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 34900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 233012,
+                "name": "홍정운",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 22500,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 233279,
+                "name": "박동진",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 59900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 235465,
+                "name": "서영재",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 49600000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 236586,
+                "name": "김진야",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 63500,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 238098,
+                "name": "이순민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 28300000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 240186,
+                "name": "고명석",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 31600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 243422,
+                "name": "두현석",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "RWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 3910000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 246345,
+                "name": "조진우",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 983000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 247471,
+                "name": "마사",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 18500000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 247667,
+                "name": "김태환",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 89600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 254886,
+                "name": "아사니",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 1140000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 255917,
+                "name": "고영준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 30700000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 257386,
+                "name": "에르난데스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 82,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 12
+            },
+            "value": 96000000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 259325,
+                "name": "갈레구",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 11300,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 191871,
+                "name": "이용래",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 81900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 202949,
+                "name": "김준엽",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "RWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 11
+            },
+            "value": 23600,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 212535,
+                "name": "애론 칼베르",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 96800,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 221759,
+                "name": "김경민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 3380000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 226651,
+                "name": "김민혁",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 99100,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 231912,
+                "name": "김건웅",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 26900,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 252278,
+                "name": "김주공",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 3340,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 256791,
+                "name": "이진용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 378000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 261401,
+                "name": "강성진",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "RM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 852000,
+            "prob": 0.005681818199999999
+        },
+        {
+            "player": {
+                "id": 204969,
+                "name": "토마스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "CAM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 30300,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 221859,
+                "name": "이주용",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 76,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 1440,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 232626,
+                "name": "오재석",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "RB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 48100,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 237977,
+                "name": "김한길",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 1080,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 238763,
+                "name": "유리",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 10100,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 243287,
+                "name": "임은수",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 236000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 247748,
+                "name": "이희균",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 81,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 44900,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 252659,
+                "name": "김동헌",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 172000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 255329,
+                "name": "김인균",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 79,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 84300,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 255868,
+                "name": "허율",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 80,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 69400,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 260397,
+                "name": "양현준",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "RW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 1050,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 261062,
+                "name": "이한범",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 77,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 930000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 272870,
+                "name": "루카스 바르셀루스",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 84,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 10
+            },
+            "value": 645000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 230921,
+                "name": "황문기",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1250,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 233280,
+                "name": "이민기",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 25100,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 234301,
+                "name": "최철원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 76,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 220000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 234322,
+                "name": "박병현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 76,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1090,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 243175,
+                "name": "이현식",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 78,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 80600,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 251580,
+                "name": "서진수",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1010,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 266496,
+                "name": "민경현",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 76,
+                "position": "LWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 8980,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 207836,
+                "name": "황순민",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 74,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1050,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 232937,
+                "name": "김현훈",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "CB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1040,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 238242,
+                "name": "문지환",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 9
+            },
+            "value": 1010,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 252427,
+                "name": "정민기",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 74,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 7
+            },
+            "value": 93200,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 255035,
+                "name": "조현택",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 14800,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 242821,
+                "name": "김승섭",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 74,
+                "position": "LW",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 1010,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 260166,
+                "name": "오재혁",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 1020,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 261063,
+                "name": "이태석",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 74,
+                "position": "LB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 1450000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 191924,
+                "name": "이범영",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 73,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 6
+            },
+            "value": 43200000,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 266541,
+                "name": "유제호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 72,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 1160,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 269093,
+                "name": "김진호",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 73,
+                "position": "RWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 7
+            },
+            "value": 1050,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 233286,
+                "name": "황인재",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 73,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 6
+            },
+            "value": 1840,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 246043,
+                "name": "장성원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 74,
+                "position": "RWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 7
+            },
+            "value": 9100,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 252810,
+                "name": "임덕근",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 71,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 7
+            },
+            "value": 14800,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 261115,
+                "name": "이호재",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 71,
+                "position": "ST",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 8
+            },
+            "value": 3080,
+            "prob": 0.0081168831
+        },
+        {
+            "player": {
+                "id": 266789,
+                "name": "황재원",
+                "season": "23KL",
+                "season_no": 512,
+                "ovr": 75,
+                "position": "RWB",
+                "nation": null,
+                "upgrade": 1,
+                "pay": 7
+            },
+            "value": 2170000,
+            "prob": 0.0081168831
+        }
+    ]
+}

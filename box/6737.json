@@ -1,0 +1,144 @@
+{
+    "id": "6737",
+    "name": "ICON The Moment 코인 상자 (10개 ~ 50개)",
+    "image": null,
+    "expectedBp": 0.0,
+    "expectedValue": {
+        "ICON the Moment 코인": 22.6
+    },
+    "percentile": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "5": 0,
+        "10": 0,
+        "20": 0,
+        "30": 0,
+        "40": 0,
+        "50": 0,
+        "60": 0,
+        "70": 0,
+        "80": 0,
+        "90": 0,
+        "100": 0
+    },
+    "itemList": [
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 50,
+            "prob": 0.04
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 45,
+            "prob": 0.04
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 40,
+            "prob": 0.04
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 35,
+            "prob": 0.08
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 30,
+            "prob": 0.08
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 25,
+            "prob": 0.12
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 20,
+            "prob": 0.2
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 15,
+            "prob": 0.2
+        },
+        {
+            "item": {
+                "id": -1,
+                "name": "ICON the Moment 코인",
+                "image": null,
+                "expectedBp": 0.0,
+                "expectedValue": {
+                    "ICON the Moment 코인": 1
+                }
+            },
+            "amount": 10,
+            "prob": 0.2
+        }
+    ]
+}
