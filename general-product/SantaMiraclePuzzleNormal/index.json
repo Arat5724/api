@@ -1,0 +1,325 @@
+{
+    "id": "SantaMiraclePuzzleNormal",
+    "name": "트리플 크리스마스 일반 게임",
+    "image": "/assets/images/product/SantaMiraclePuzzleNormal.png",
+    "price": 1200,
+    "efficiency": 137.67721762075442,
+    "expectedBp": 16521266114.49053,
+    "expectedValue": {
+        "bp_player": 12169126367.547316,
+        "bp_card": 5325669856.347
+    },
+    "efficiency1": 125.16110692795856,
+    "expectedBp1": 15019332831.355026,
+    "expectedValue1": {
+        "bp_player": 11062842152.31574,
+        "bp_card": 4841518051.2245455
+    },
+    "percentile": null,
+    "additionalInfo": {
+        "1+등급": [
+            {
+                "type": "box",
+                "item": {
+                    "id": "8461",
+                    "name": "[일반 1+등급][최종 OVR 120+ 선수팩 포함] 트리플 크리스마스 상자",
+                    "image": "/assets/images/item/201704641_s.png",
+                    "expectedBp": 156434290865.36304,
+                    "expectedValue": {
+                        "bp_player": 170037272679.74243
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8411",
+                    "name": "[일반 1+등급] CC, FCA, 23HW 포함 Top Price 810 (8강, 98+)",
+                    "image": "/assets/images/item/200233142_s.png",
+                    "expectedBp": 148948642252.6348,
+                    "expectedValue": {
+                        "bp_player": 161900698100.69
+                    }
+                }
+            },
+            {
+                "type": "box",
+                "item": {
+                    "id": "8462",
+                    "name": "[일반 1+등급] 'BP 카드 1300억' or 'DC 포함 5강 선수팩'",
+                    "image": "/assets/images/item/201704642_s.png",
+                    "expectedBp": 135158700563.88112,
+                    "expectedValue": {
+                        "bp_card": 91000000000.0,
+                        "bp_player": 47998587569.436
+                    }
+                }
+            }
+        ],
+        "1등급": [
+            {
+                "type": "box",
+                "item": {
+                    "id": "8463",
+                    "name": "[일반 1등급][최종 OVR 118+ 선수팩 포함] 더블 크리스마스 상자",
+                    "image": "/assets/images/item/201704643_s.png",
+                    "expectedBp": 61837291471.66723,
+                    "expectedValue": {
+                        "bp_player": 67214447251.8122
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8415",
+                    "name": "[일반 1등급] 23HW, HG, RTN 포함 Top Price 1500 (8강, 90+)",
+                    "image": "/assets/images/item/200233146_s.png",
+                    "expectedBp": 61116177662.719215,
+                    "expectedValue": {
+                        "bp_player": 66430627894.26001
+                    }
+                }
+            },
+            {
+                "type": "box",
+                "item": {
+                    "id": "8464",
+                    "name": "[일반 1등급] 'BP 카드 650억' or 'DC 포함 5강 선수팩'",
+                    "image": "/assets/images/item/201704644_s.png",
+                    "expectedBp": 65370190535.81384,
+                    "expectedValue": {
+                        "bp_card": 45500000000.0,
+                        "bp_player": 21598033191.101997
+                    }
+                }
+            }
+        ],
+        "2등급": [
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8417",
+                    "name": "[일반 2등급] 24HEROES, DC, CC, 23NG Top Price 100 (3강, 107+)",
+                    "image": "/assets/images/item/200233148_s.png",
+                    "expectedBp": 25575162851.584404,
+                    "expectedValue": {
+                        "bp_player": 27799090056.070004
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8418",
+                    "name": "[일반 2등급] CC, FCA, 23HW 포함 Top Price 480 (5강, 105+)",
+                    "image": "/assets/images/item/200233149_s.png",
+                    "expectedBp": 26647131424.419044,
+                    "expectedValue": {
+                        "bp_player": 28964273287.412003
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8419",
+                    "name": "[일반 2등급] CAP 포함 Top Price 900 (8강, 88+)",
+                    "image": "/assets/images/item/200233150_s.png",
+                    "expectedBp": 24421193330.7584,
+                    "expectedValue": {
+                        "bp_player": 26544775359.52
+                    }
+                }
+            },
+            {
+                "type": "bp",
+                "item": {
+                    "id": "8455",
+                    "name": "[일반 2등급] 행운의 BP 카드 (200억~400억 BP)",
+                    "image": "/assets/images/item/200333039_s.png",
+                    "expectedBp": 27636363649.0,
+                    "expectedValue": {
+                        "bp_card": 27636363649.0
+                    }
+                }
+            }
+        ],
+        "3등급": [
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8420",
+                    "name": "[일반 3등급] 24HEROES, DC 포함 Top Price 170 (2강, 109+)",
+                    "image": "/assets/images/item/200233151_s.png",
+                    "expectedBp": 9058476908.465601,
+                    "expectedValue": {
+                        "bp_player": 9846170552.68
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8421",
+                    "name": "[일반 3등급] DC, JVA, CC 포함 Top Price 190 (3강, 106+)",
+                    "image": "/assets/images/item/200233152_s.png",
+                    "expectedBp": 8437308655.364999,
+                    "expectedValue": {
+                        "bp_player": 9170987668.874998
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8422",
+                    "name": "[일반 3등급] 23HW, HG, 23KB 포함 Top Price 520 (5강, 105+)",
+                    "image": "/assets/images/item/200233153_s.png",
+                    "expectedBp": 6311300266.5772,
+                    "expectedValue": {
+                        "bp_player": 6860108985.41
+                    }
+                }
+            },
+            {
+                "type": "bp",
+                "item": {
+                    "id": "8456",
+                    "name": "[일반 3등급] 행운의 BP 카드 (70억~140억 BP)",
+                    "image": "/assets/images/item/200333040_s.png",
+                    "expectedBp": 9684210523.0,
+                    "expectedValue": {
+                        "bp_card": 9684210523.0
+                    }
+                }
+            }
+        ],
+        "4등급": [
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8423",
+                    "name": "[일반 4등급] JVA, CC, FCA 포함 1~3강 선수팩 (최종 OVR 110+)",
+                    "image": "/assets/images/item/200233154_s.png",
+                    "expectedBp": 6525607160.104364,
+                    "expectedValue": {
+                        "bp_player": 7093051260.983005
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8424",
+                    "name": "[일반 4등급] JVA, CC, FCA 포함 Top Price 170 (3강, 108+)",
+                    "image": "/assets/images/item/200233155_s.png",
+                    "expectedBp": 6163506373.555639,
+                    "expectedValue": {
+                        "bp_player": 6699463449.516999
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8425",
+                    "name": "[일반 4등급] HG, 23KB 포함 Top Price 220 (4강, 106+)",
+                    "image": "/assets/images/item/200233156_s.png",
+                    "expectedBp": 5331306138.54652,
+                    "expectedValue": {
+                        "bp_player": 5794897976.681
+                    }
+                }
+            },
+            {
+                "type": "bp",
+                "item": {
+                    "id": "8457",
+                    "name": "[일반 4등급] 행운의 BP 카드 (50억~100억 BP)",
+                    "image": "/assets/images/item/200333041_s.png",
+                    "expectedBp": 6629629628.2,
+                    "expectedValue": {
+                        "bp_card": 6629629628.2
+                    }
+                }
+            }
+        ],
+        "point": [
+            {
+                "type": "box",
+                "item": {
+                    "id": "8469",
+                    "name": "'ICON TM' or '최종 OVR 121+' or 'CC 포함 8강' 상자",
+                    "image": "/assets/images/item/201704649_s.png",
+                    "expectedBp": 508162202395.8899,
+                    "expectedValue": {
+                        "bp_player": 552350219995.5325
+                    }
+                }
+            },
+            {
+                "type": "box",
+                "item": {
+                    "id": "8470",
+                    "name": "'ICON TM' or 'CC 포함 8강' 상자",
+                    "image": "/assets/images/item/201704650_s.png",
+                    "expectedBp": 207986613510.24802,
+                    "expectedValue": {
+                        "bp_player": 226072405989.40002
+                    }
+                }
+            },
+            {
+                "type": "player-pack",
+                "item": {
+                    "id": "8410",
+                    "name": "멀티 클래스 DF, GK 8강 선수팩 (최종 OVR 111+, 급여 20이하)",
+                    "image": "/assets/images/item/200233141_s.png",
+                    "expectedBp": 168796967707.5216,
+                    "expectedValue": {
+                        "bp_player": 183474964899.48
+                    }
+                }
+            },
+            {
+                "type": "box",
+                "item": {
+                    "id": "8471",
+                    "name": "[5000억 BP, 23HW 8강 포함] 일반 치얼업 상자",
+                    "image": "/assets/images/item/201704651_s.png",
+                    "expectedBp": 58030004046.01741,
+                    "expectedValue": {
+                        "bp_card": 5000000000.0,
+                        "bp_player": 57641308745.6711
+                    }
+                }
+            },
+            {
+                "type": "box",
+                "item": {
+                    "id": "8472",
+                    "name": "[일반 1+등급 5%] 전체 수수료 35% 할인 쿠폰 (~24.01.31)",
+                    "image": "/assets/images/item/201704652_s.png",
+                    "expectedBp": 7821714543.268152,
+                    "expectedValue": {
+                        "bp_player": 8501863633.987122,
+                        "전체 수수료 35% 할인 쿠폰 (~24.01.31)": 0.95
+                    }
+                }
+            },
+            {
+                "type": "bp",
+                "item": {
+                    "id": "8457",
+                    "name": "[일반 4등급] 행운의 BP 카드 (50억~100억 BP)",
+                    "image": "/assets/images/item/200333041_s.png",
+                    "expectedBp": 6629629628.2,
+                    "expectedValue": {
+                        "bp_card": 6629629628.2
+                    }
+                }
+            }
+        ]
+    }
+}

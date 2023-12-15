@@ -1,0 +1,33 @@
+{
+    "id": "31163",
+    "name": "[마일리지] 행운의 BP 카드 (500만 ~ 1억 BP) X 10",
+    "image": "/assets/images/item/31163_s.png",
+    "price": 1000,
+    "efficiency": 1.3746130005000001,
+    "expectedBp": 137461300.05,
+    "expectedValue": {
+        "bp_card": 137461300.05
+    },
+    "efficiency1": 1.3746130005000001,
+    "expectedBp1": 137461300.05,
+    "expectedValue1": {
+        "bp_card": 137461300.05
+    },
+    "percentile": null,
+    "itemList": [
+        {
+            "type": "bp",
+            "item": {
+                "id": "7922",
+                "name": "[마일리지] 행운의 BP 카드 (500만~1억 BP)",
+                "image": "/assets/images/item/200337014_s.png",
+                "expectedBp": 13746130.005,
+                "expectedValue": {
+                    "bp_card": 13746130.005
+                }
+            },
+            "amount": 10
+        }
+    ],
+    "keyInfo": null
+}

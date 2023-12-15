@@ -1,0 +1,120 @@
+[
+    {
+        "id": "31157",
+        "name": "[마일리지] 아이스 캡 상자",
+        "image": "/assets/images/item/201704553_s.png",
+        "price": 100000,
+        "efficiency": 15.680857086584519,
+        "expectedBp": 156808570865.84518,
+        "expectedValue": {
+            "bp_player": 170444098767.22302
+        },
+        "efficiency1": 15.680857086584519,
+        "expectedBp1": 156808570865.84518,
+        "expectedValue1": {
+            "bp_player": 170444098767.22302
+        }
+    },
+    {
+        "id": "31159",
+        "name": "[마일리지][DC 획득 기회] DC 챌린지! 상자 X 3",
+        "image": "/assets/images/item/31159_s.png",
+        "price": 40000,
+        "efficiency": 11.991438636091898,
+        "expectedBp": 47965754544.36759,
+        "expectedValue": {
+            "bp_player": 27680167983.00825,
+            "bp_card": 22500000000.0
+        },
+        "efficiency1": 11.991438636091898,
+        "expectedBp1": 47965754544.36759,
+        "expectedValue1": {
+            "bp_player": 27680167983.00825,
+            "bp_card": 22500000000.0
+        }
+    },
+    {
+        "id": "31160",
+        "name": "[마일리지][DC 획득 기회] DC 챌린지! 상자 X 2",
+        "image": "/assets/images/item/31160_s.png",
+        "price": 28000,
+        "efficiency": 11.42041774865895,
+        "expectedBp": 31977169696.245064,
+        "expectedValue": {
+            "bp_player": 18453445322.0055,
+            "bp_card": 15000000000.0
+        },
+        "efficiency1": 11.42041774865895,
+        "expectedBp1": 31977169696.245064,
+        "expectedValue1": {
+            "bp_player": 18453445322.0055,
+            "bp_card": 15000000000.0
+        }
+    },
+    {
+        "id": "31161",
+        "name": "[마일리지][DC 획득 기회] DC 챌린지! 상자",
+        "image": "/assets/images/item/201704554_s.png",
+        "price": 15000,
+        "efficiency": 10.659056565415021,
+        "expectedBp": 15988584848.122532,
+        "expectedValue": {
+            "bp_player": 9226722661.00275,
+            "bp_card": 7500000000.0
+        },
+        "efficiency1": 10.659056565415021,
+        "expectedBp1": 15988584848.122532,
+        "expectedValue1": {
+            "bp_player": 9226722661.00275,
+            "bp_card": 7500000000.0
+        }
+    },
+    {
+        "id": "31162",
+        "name": "[마일리지] DC, CC, 23HW Top Price ALL (1강)",
+        "image": "/assets/images/item/200237036_s.png",
+        "price": 3000,
+        "efficiency": 2.1573722949296217,
+        "expectedBp": 647211688.4788865,
+        "expectedValue": {
+            "bp_player": 703490965.73792
+        },
+        "efficiency1": 2.1573722949296217,
+        "expectedBp1": 647211688.4788865,
+        "expectedValue1": {
+            "bp_player": 703490965.73792
+        }
+    },
+    {
+        "id": "31163",
+        "name": "[마일리지] 행운의 BP 카드 (500만 ~ 1억 BP) X 10",
+        "image": "/assets/images/item/31163_s.png",
+        "price": 1000,
+        "efficiency": 1.3746130005000001,
+        "expectedBp": 137461300.05,
+        "expectedValue": {
+            "bp_card": 137461300.05
+        },
+        "efficiency1": 1.3746130005000001,
+        "expectedBp1": 137461300.05,
+        "expectedValue1": {
+            "bp_card": 137461300.05
+        }
+    },
+    {
+        "id": "31164",
+        "name": "[마일리지] 행운의 BP 카드 (500만 ~ 1억 BP)",
+        "image": "/assets/images/item/200337014_s.png",
+        "price": 100,
+        "efficiency": 1.3746130005000001,
+        "expectedBp": 13746130.005,
+        "expectedValue": {
+            "bp_card": 13746130.005
+        },
+        "efficiency1": 1.3746130005000001,
+        "expectedBp1": 13746130.005,
+        "expectedValue1": {
+            "bp_card": 13746130.005
+        }
+    }
+]
