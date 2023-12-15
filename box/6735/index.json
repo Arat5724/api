@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -37,6 +38,7 @@
             "prob": 0.025
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -50,6 +52,7 @@
             "prob": 0.025
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -63,6 +66,7 @@
             "prob": 0.025
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -76,6 +80,7 @@
             "prob": 0.025
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -89,6 +94,7 @@
             "prob": 0.05
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -102,6 +108,7 @@
             "prob": 0.075
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -115,6 +122,7 @@
             "prob": 0.125
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -128,6 +136,7 @@
             "prob": 0.25
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",
@@ -141,6 +150,7 @@
             "prob": 0.2
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "ICON the Moment 코인",

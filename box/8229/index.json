@@ -10,6 +10,7 @@
     "percentile": null,
     "itemList": [
         {
+            "type": "box",
             "item": {
                 "id": "8228",
                 "name": "더 화이트 DC 에디션 상자",
@@ -24,6 +25,7 @@
             "prob": 0.08
         },
         {
+            "type": "box",
             "item": {
                 "id": "8228",
                 "name": "더 화이트 DC 에디션 상자",

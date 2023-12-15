@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8304",
                 "name": "[AG][24.01] ICON The Moment 선수팩",
@@ -38,6 +39,7 @@
             "prob": 0.0005
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "[24.01] ICON 5강 + BP 상자",

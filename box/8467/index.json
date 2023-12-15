@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8432",
                 "name": "[스페셜 1등급] JVA, CC 포함 최종 OVR 120+ 멀티 강화 선수팩",
@@ -37,6 +38,7 @@
             "prob": 0.02
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8433",
                 "name": "[스페셜 1등급] 24HEROES, DC, CC Top Price 140 (5강, 108+)",

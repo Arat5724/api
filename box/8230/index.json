@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8205",
                 "name": "DC Top Price 100 선수팩 (5강, 103+)",
@@ -37,6 +38,7 @@
             "prob": 0.2
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8173",
                 "name": "DC 50명 지명 선수팩 (1강, 109+)",

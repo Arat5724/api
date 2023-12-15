@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8183",
                 "name": "DC Top Price 80 선수팩 (5강, 108+)",
@@ -38,6 +39,7 @@
             "prob": 0.2
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8184",
                 "name": "JVA, CC 포함 Top Price 820 선수팩 (8강, 98+)",
@@ -51,6 +53,7 @@
             "prob": 0.1
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8185",
                 "name": "JVA, CC 포함 Top Price 650 선수팩 (7강, 98+)",
@@ -64,6 +67,7 @@
             "prob": 0.16
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8186",
                 "name": "JVA, CC 포함 Top Price 470 선수팩 (6강, 103+)",
@@ -77,6 +81,7 @@
             "prob": 0.18
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8187",
                 "name": "JVA, CC 포함 Top Price 270 선수팩 (5강, 104+)",
@@ -90,6 +95,7 @@
             "prob": 0.18
         },
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "BP 카드 800억",

@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8192",
                 "name": "CC 포함 Top Price 2200 선수팩 (8강, 95+)",
@@ -38,6 +39,7 @@
             "prob": 0.005
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8193",
                 "name": "CC 포함 Top Price 1600 선수팩 (7강, 95+)",
@@ -51,6 +53,7 @@
             "prob": 0.01
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8194",
                 "name": "CC 포함 Top Price 1050 선수팩 (6강, 95+)",
@@ -64,6 +67,7 @@
             "prob": 0.015
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8195",
                 "name": "DC, CC Top Price 220 선수팩 (5강, 103+)",
@@ -77,6 +81,7 @@
             "prob": 0.02
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8206",
                 "name": "JVA, CC 포함 Top Price 490 선수팩 (5강, 105+)",
@@ -90,6 +95,7 @@
             "prob": 0.145
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8197",
                 "name": "DC 포함 Top Price 210 선수팩 (3강, 105+)",
@@ -103,6 +109,7 @@
             "prob": 0.145
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8198",
                 "name": "DC 포함 Top Price 150 선수팩 (1강, 105+)",
@@ -116,6 +123,7 @@
             "prob": 0.145
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8199",
                 "name": "HG 포함 Top Price 2000 선수팩 (8강, 95+)",
@@ -129,6 +137,7 @@
             "prob": 0.145
         },
         {
+            "type": "bp",
             "item": {
                 "id": "untitled1",
                 "name": "[1000억 10%] 행운의 BP 카드 (500억, 1000억)",
@@ -142,6 +151,7 @@
             "prob": 0.01
         },
         {
+            "type": "bp",
             "item": {
                 "id": "untitled2",
                 "name": "[1000억 5%] 행운의 BP 카드 (200억, 1000억)",
@@ -155,6 +165,7 @@
             "prob": 0.07
         },
         {
+            "type": "bp",
             "item": {
                 "id": "untitled3",
                 "name": "[500억 5%] 행운의 BP 카드 (100억, 500억)",
@@ -168,6 +179,7 @@
             "prob": 0.145
         },
         {
+            "type": "bp",
             "item": {
                 "id": "8216",
                 "name": "[300억 5%] 행운의 BP 카드 (70억, 300억)",

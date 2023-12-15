@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8238",
                 "name": "[AG][23.12] CC 포함 OVR 100~101 선수팩 (7~8강)",
@@ -38,6 +39,7 @@
             "prob": 0.001
         },
         {
+            "type": "bp",
             "item": {
                 "id": "8244",
                 "name": "[AG] 행운의 BP 카드 (14억~18억 BP)",

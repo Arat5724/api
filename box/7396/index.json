@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "의뢰 성공",
@@ -38,6 +39,7 @@
             "prob": 0.005
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "의뢰 실패",

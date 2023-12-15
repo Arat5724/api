@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "7598",
                 "name": "[코인 상점] CC Top Price 60 선수팩 (5강, 106+)",
@@ -37,6 +38,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7599",
                 "name": "[코인 상점] FCA, 23HW Top Price 50 선수팩 (5강, 108+)",
@@ -50,6 +52,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7602",
                 "name": "[코인 상점] HG, RTN, 22UCL Top Price 520 선수팩 (8강, 95+)",

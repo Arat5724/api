@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8153",
                 "name": "HG, RTN 포함 Top Price 480 (5강, 103+)",
@@ -38,6 +39,7 @@
             "prob": 0.05
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8154",
                 "name": "HG, RTN 포함 Top Price 140 (3강, 105+)",
@@ -51,6 +53,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8155",
                 "name": "23HEROES 포함 Top Price 400 (5강, 103+)",
@@ -64,6 +67,7 @@
             "prob": 0.4
         },
         {
+            "type": "bp",
             "item": {
                 "id": "7923",
                 "name": "행운의 BP 카드 (25억~50억 BP)",

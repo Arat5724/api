@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "7722",
                 "name": "[일반] ICON TM All 선수팩 (1강)",
@@ -37,6 +38,7 @@
             "prob": 0.03
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7723",
                 "name": "CC Top Price 90 선수팩 (8강, 105+)",
@@ -50,6 +52,7 @@
             "prob": 0.07
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7724",
                 "name": "FCA, 23HW Top Price 180 선수팩 (8강, 106+)",
@@ -63,6 +66,7 @@
             "prob": 0.16
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8175",
                 "name": "HG, RTN 포함 Top Price 1000 선수팩 (8강, 100+)",
@@ -76,6 +80,7 @@
             "prob": 0.3
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7726",
                 "name": "JVA, CC 포함 Top Price 190 선수팩 (7강, 106+)",
@@ -89,6 +94,7 @@
             "prob": 0.31
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8176",
                 "name": "DC Top Price 40 선수팩 (5강, 108+)",

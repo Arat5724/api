@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8144",
                 "name": "[마일리지] DC, JVA, CC 포함 Top Price 180 (5강, 104+)",
@@ -37,6 +38,7 @@
             "prob": 0.45
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8145",
                 "name": "[마일리지] 23HW, HG, RTN, 22UCL Top Price 460 (7강, 97+)",

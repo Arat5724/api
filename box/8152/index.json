@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8146",
                 "name": "[마일리지] DC Top Price 50 (1강, 109+)",
@@ -38,6 +39,7 @@
             "prob": 0.03
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8147",
                 "name": "[마일리지] JVA, CC 포함 Top Price 135 (3강, 104+)",
@@ -51,6 +53,7 @@
             "prob": 0.17
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8148",
                 "name": "[마일리지] HG, RTN 포함 Top Price 260 (5강, 105+)",
@@ -64,6 +67,7 @@
             "prob": 0.3
         },
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "[마일리지] BP 카드 150억",

@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "[AG][23.06] ICON The Moment 선수팩",
@@ -38,6 +39,7 @@
             "prob": 0.5
         },
         {
+            "type": "other",
             "item": {
                 "id": -1,
                 "name": "[AG] 행운의 BP 카드 (3,500억~8,000억 BP)",

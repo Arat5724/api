@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "7958",
                 "name": "[P] ICON TM ALL 선수팩 (1강)",
@@ -37,6 +38,7 @@
             "prob": 0.02
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8452",
                 "name": "[P] JVA, CC, FCA 포함 Top Price 740 (8강, 98+)",

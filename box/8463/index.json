@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8413",
                 "name": "[일반 1등급] 24HEROES, DC 포함 최종 OVR 118+ 멀티 강화 선수팩",
@@ -37,6 +38,7 @@
             "prob": 0.02
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8414",
                 "name": "[일반 1등급] 24HEROES, DC 포함 Top Price 300 (5강, 107+)",

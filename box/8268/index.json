@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8258",
                 "name": "DC 클래스 Top Price 100 선수팩 (5강, 107+)",
@@ -37,6 +38,7 @@
             "prob": 0.0011098779
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8259",
                 "name": "JVA, CC, FCA 클래스 Top Price 130 선수팩 (5강, 100+)",
@@ -50,6 +52,7 @@
             "prob": 0.0332963374
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8262",
                 "name": "[RMCF, LN 포함] Top Price 860 선수팩 (8강, 100+)",
@@ -63,6 +66,7 @@
             "prob": 0.0776914539
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8260",
                 "name": "[JVA 포함] Top Price 500 선수팩 (4강, 106+)",
@@ -76,6 +80,7 @@
             "prob": 0.44395116539999996
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8261",
                 "name": "[FCA 포함] Top Price 400 선수팩 (4강, 106+)",

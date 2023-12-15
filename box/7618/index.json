@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "7608",
                 "name": "[코인 상점] CC Top Price 50 선수팩 (5강, 106+)",

@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "[일반 1등급] BP 카드 650억",
@@ -38,6 +39,7 @@
             "prob": 0.7
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8416",
                 "name": "[일반 1등급] DC 포함 Top Price 350 (5강, 107+)",

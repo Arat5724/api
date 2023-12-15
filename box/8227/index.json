@@ -24,6 +24,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8188",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 390 선수팩 (8강, 90+)",
@@ -37,6 +38,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8189",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 280 선수팩 (7강, 90+)",
@@ -50,6 +52,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8190",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 220 선수팩 (6강, 90+)",
@@ -63,6 +66,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8191",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 140 선수팩 (5강, 90+)",

@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "[P] BP 카드 5000억",
@@ -38,6 +39,7 @@
             "prob": 0.01
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8448",
                 "name": "[P] 23HW 포함 Top Price 1590 (8강, 90+)",
@@ -51,6 +53,7 @@
             "prob": 0.49
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8449",
                 "name": "[P] 24HEROES, DC 포함 Top Price 290 (5강, 107+)",

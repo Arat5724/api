@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8252",
                 "name": "DC, JVA, CC, FCA 클래스 최종 OVR 110+ 스페셜팩 (3강)",
@@ -38,6 +39,7 @@
             "prob": 0.011627907
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8253",
                 "name": "[DC 1~3강 포함] 최종 OVR 109+ 스페셜팩 (1~5강)",
@@ -51,6 +53,7 @@
             "prob": 0.3488372093
         },
         {
+            "type": "bp",
             "item": {
                 "id": "8265",
                 "name": "[SKYBOX] 행운의 BP 카드 (300억~600억 BP)",
@@ -64,6 +67,7 @@
             "prob": 0.5813953488
         },
         {
+            "type": "bp",
             "item": {
                 "id": "8264",
                 "name": "[SKYBOX] 행운의 BP 카드 (150억~300억 BP)",

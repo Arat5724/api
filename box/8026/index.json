@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8019",
                 "name": "[코인 상점] JVA, CC 포함 Top Price 250 선수팩 (8강, 101+)",
@@ -38,6 +39,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8020",
                 "name": "[코인 상점] JVA, CC 포함 Top Price 110 선수팩 (7강, 104+)",
@@ -51,6 +53,7 @@
             "prob": 0.25
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8021",
                 "name": "[코인 상점] DC Top Price 30 선수팩 (5강, 111+)",
@@ -64,6 +67,7 @@
             "prob": 0.25
         },
         {
+            "type": "bp",
             "item": {
                 "id": "8022",
                 "name": "확률 반반 BP 카드 (1조, 2조)",

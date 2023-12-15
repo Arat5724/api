@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "8196",
                 "name": "JVA, CC, FCA, 23HW Top Price All 선수팩 (8강)",
@@ -38,6 +39,7 @@
             "prob": 0.01
         },
         {
+            "type": "bp",
             "item": {
                 "id": "7757",
                 "name": "확률 반반 BP 카드 (3000억, 5000억)",
@@ -51,6 +53,7 @@
             "prob": 0.01
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8179",
                 "name": "JVA, CC, FCA, 23HW Top Price 340 선수팩 (7강, 100+)",
@@ -64,6 +67,7 @@
             "prob": 0.06
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8180",
                 "name": "JVA, CC, FCA, 23HW Top Price 300 선수팩 (6강, 102+)",
@@ -77,6 +81,7 @@
             "prob": 0.25
         },
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "BP 카드 1000억",
@@ -90,6 +95,7 @@
             "prob": 0.11
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8182",
                 "name": "DC 포함 Top Price 300 선수팩 (5강, 105+)",
@@ -103,6 +109,7 @@
             "prob": 0.28
         },
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "BP 카드 500억",

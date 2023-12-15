@@ -10,6 +10,7 @@
     "percentile": null,
     "itemList": [
         {
+            "type": "playerPack",
             "item": {
                 "id": "7610",
                 "name": "[코인 상점] CC Top Price 60 선수팩 (8강, 106+)",
@@ -23,6 +24,7 @@
             "prob": 0.005
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7611",
                 "name": "[코인 상점] FCA, 23HW Top Price 60 선수팩 (8강, 108+)",
@@ -36,6 +38,7 @@
             "prob": 0.005
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "7608",
                 "name": "[코인 상점] CC Top Price 50 선수팩 (5강, 106+)",
@@ -49,6 +52,7 @@
             "prob": 0.495
         },
         {
+            "type": "bp",
             "item": {
                 "id": "7388",
                 "name": "행운의 BP 카드 (1조~2조 BP)",

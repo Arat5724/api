@@ -25,6 +25,7 @@
     },
     "itemList": [
         {
+            "type": "bp",
             "item": {
                 "id": -1,
                 "name": "[스페셜 1등급] BP 카드 1000억",
@@ -38,6 +39,7 @@
             "prob": 0.7
         },
         {
+            "type": "playerPack",
             "item": {
                 "id": "8435",
                 "name": "[스페셜 1등급] DC, CC Top Price 130 (5강, 108+)",
