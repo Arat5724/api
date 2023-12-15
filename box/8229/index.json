@@ -1,10 +1,10 @@
 {
     "id": "8229",
     "name": "[12개 8%] 더 화이트 DC 에디션 고급 쿼드러플 상자",
-    "image": null,
-    "expectedBp": 66456174640.83523,
+    "image": "/assets/images/item/201704578_s.png",
+    "expectedBp": 63327150377.42823,
     "expectedValue": {
-        "bp_player": 46252233305.255684,
+        "bp_player": 42851119975.46547,
         "bp_card": 23904120000.0
     },
     "percentile": null,
@@ -13,10 +13,10 @@
             "item": {
                 "id": "8228",
                 "name": "더 화이트 DC 에디션 상자",
-                "image": null,
-                "expectedBp": 14322451431.214489,
+                "image": "/assets/images/item/201704577_s.png",
+                "expectedBp": 13648092753.756084,
                 "expectedValue": {
-                    "bp_player": 9968153729.580965,
+                    "bp_player": 9235155167.126179,
                     "bp_card": 5151750000.0
                 }
             },
@@ -27,10 +27,10 @@
             "item": {
                 "id": "8228",
                 "name": "더 화이트 DC 에디션 상자",
-                "image": null,
-                "expectedBp": 14322451431.214489,
+                "image": "/assets/images/item/201704577_s.png",
+                "expectedBp": 13648092753.756084,
                 "expectedValue": {
-                    "bp_player": 9968153729.580965,
+                    "bp_player": 9235155167.126179,
                     "bp_card": 5151750000.0
                 }
             },

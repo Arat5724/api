@@ -2,9 +2,9 @@
     "id": "7619",
     "name": "[S2][Premium ICON TM 코인] 50개 투입 잠금상자",
     "image": null,
-    "expectedBp": 1238769362926.6365,
+    "expectedBp": 1221648639900.16,
     "expectedValue": {
-        "bp_player": 647031916224.6049,
+        "bp_player": 628422434674.0868,
         "bp_card": 643500000000.0
     },
     "percentile": null,
@@ -14,9 +14,9 @@
                 "id": "7610",
                 "name": "[코인 상점] CC Top Price 60 선수팩 (8강, 106+)",
                 "image": null,
-                "expectedBp": 5792391553271.4,
+                "expectedBp": 5816250219958.92,
                 "expectedValue": {
-                    "bp_player": 6296077775295.0
+                    "bp_player": 6322011108651.0
                 }
             },
             "amount": 1,
@@ -27,9 +27,9 @@
                 "id": "7611",
                 "name": "[코인 상점] FCA, 23HW Top Price 60 선수팩 (8강, 108+)",
                 "image": null,
-                "expectedBp": 4571948072252.96,
+                "expectedBp": 4564319066443.48,
                 "expectedValue": {
-                    "bp_player": 4969508774188.0
+                    "bp_player": 4961216376569.0
                 }
             },
             "amount": 1,
@@ -40,9 +40,9 @@
                 "id": "7608",
                 "name": "[코인 상점] CC Top Price 50 선수팩 (5강, 106+)",
                 "image": null,
-                "expectedBp": 182979011716.83997,
+                "expectedBp": 177187135847.86124,
                 "expectedValue": {
-                    "bp_player": 198890230126.99997
+                    "bp_player": 192594712878.11002
                 }
             },
             "amount": 6,

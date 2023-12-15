@@ -1,7 +1,7 @@
 {
     "id": "8169",
     "name": "12월의 비씨 상자",
-    "image": null,
+    "image": "/assets/images/item/201704556_s.png",
     "expectedBp": 880000000.0799999,
     "expectedValue": {
         "bp_card": 880000000.0799999,

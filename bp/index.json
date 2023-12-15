@@ -29,7 +29,7 @@
     {
         "id": "8460",
         "name": "[스페셜 4등급] 행운의 BP 카드 (100억~200억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333046_s.png",
         "expectedBp": 12611111113.800001,
         "expectedValue": {
             "bp_card": 12611111113.800001
@@ -38,7 +38,7 @@
     {
         "id": "8459",
         "name": "[스페셜 3등급] 행운의 BP 카드 (150억~300억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333045_s.png",
         "expectedBp": 18196428585.3,
         "expectedValue": {
             "bp_card": 18196428585.3
@@ -47,7 +47,7 @@
     {
         "id": "8458",
         "name": "[스페셜 2등급] 행운의 BP 카드 (400억~800억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333044_s.png",
         "expectedBp": 56187500000.0,
         "expectedValue": {
             "bp_card": 56187500000.0
@@ -56,7 +56,7 @@
     {
         "id": "8457",
         "name": "[일반 4등급] 행운의 BP 카드 (50억~100억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333041_s.png",
         "expectedBp": 6629629628.2,
         "expectedValue": {
             "bp_card": 6629629628.2
@@ -65,7 +65,7 @@
     {
         "id": "8456",
         "name": "[일반 3등급] 행운의 BP 카드 (70억~140억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333040_s.png",
         "expectedBp": 9684210523.0,
         "expectedValue": {
             "bp_card": 9684210523.0
@@ -74,7 +74,7 @@
     {
         "id": "8455",
         "name": "[일반 2등급] 행운의 BP 카드 (200억~400억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200333039_s.png",
         "expectedBp": 27636363649.0,
         "expectedValue": {
             "bp_card": 27636363649.0
@@ -857,7 +857,7 @@
     {
         "id": "8266",
         "name": "[SKYBOX] 행운의 BP 카드 (1000억~2000억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200332013_s.png",
         "expectedBp": 104420731755.0,
         "expectedValue": {
             "bp_card": 104420731755.0
@@ -866,7 +866,7 @@
     {
         "id": "8265",
         "name": "[SKYBOX] 행운의 BP 카드 (300억~600억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200332012_s.png",
         "expectedBp": 42575757571.5,
         "expectedValue": {
             "bp_card": 42575757571.5
@@ -875,7 +875,7 @@
     {
         "id": "8264",
         "name": "[SKYBOX] 행운의 BP 카드 (150억~300억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200332011_s.png",
         "expectedBp": 20277777773.25,
         "expectedValue": {
             "bp_card": 20277777773.25
@@ -884,7 +884,7 @@
     {
         "id": "8263",
         "name": "[SKYBOX] 행운의 BP 카드 (70억~150억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200332010_s.png",
         "expectedBp": 10543859644.700003,
         "expectedValue": {
             "bp_card": 10543859644.700003
@@ -956,7 +956,7 @@
     {
         "id": "8215",
         "name": "[300억 30%] 행운의 BP 카드 (100억, 300억)",
-        "image": null,
+        "image": "/assets/images/item/200330037_s.png",
         "expectedBp": 16000000000.0,
         "expectedValue": {
             "bp_card": 16000000000.0
@@ -965,7 +965,7 @@
     {
         "id": "8214",
         "name": "[500억 20%] 행운의 BP 카드 (250억, 500억)",
-        "image": null,
+        "image": "/assets/images/item/200330036_s.png",
         "expectedBp": 30000000000.0,
         "expectedValue": {
             "bp_card": 30000000000.0
@@ -1028,7 +1028,7 @@
     {
         "id": "7922",
         "name": "[마일리지] 행운의 BP 카드 (500만~1억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200337014_s.png",
         "expectedBp": 13746130.005,
         "expectedValue": {
             "bp_card": 13746130.005
@@ -1091,7 +1091,7 @@
     {
         "id": "7754",
         "name": "[500억 15%] 행운의 BP 카드 (250억, 500억)",
-        "image": null,
+        "image": "/assets/images/item/200330028_s.png",
         "expectedBp": 28750000000.0,
         "expectedValue": {
             "bp_card": 28750000000.0
@@ -1145,7 +1145,7 @@
     {
         "id": "7219",
         "name": "행운의 BP 카드 (1억~100억 BP)",
-        "image": null,
+        "image": "/assets/images/item/200335004_s.png",
         "expectedBp": 151139466.96,
         "expectedValue": {
             "bp_card": 151139466.96

@@ -1,7 +1,7 @@
 {
     "id": "8459",
     "name": "[스페셜 3등급] 행운의 BP 카드 (150억~300억 BP)",
-    "image": null,
+    "image": "/assets/images/item/200333045_s.png",
     "expectedBp": 18196428585.3,
     "expectedValue": {
         "bp_card": 18196428585.3

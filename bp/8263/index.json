@@ -1,7 +1,7 @@
 {
     "id": "8263",
     "name": "[SKYBOX] 행운의 BP 카드 (70억~150억 BP)",
-    "image": null,
+    "image": "/assets/images/item/200332010_s.png",
     "expectedBp": 10543859644.700003,
     "expectedValue": {
         "bp_card": 10543859644.700003

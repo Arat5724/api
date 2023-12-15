@@ -1,7 +1,7 @@
 {
     "id": "8457",
     "name": "[일반 4등급] 행운의 BP 카드 (50억~100억 BP)",
-    "image": null,
+    "image": "/assets/images/item/200333041_s.png",
     "expectedBp": 6629629628.2,
     "expectedValue": {
         "bp_card": 6629629628.2

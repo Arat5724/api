@@ -2,9 +2,9 @@
     "id": "7621",
     "name": "[S2][Premium ICON TM 코인] 10개 이상 투입 잠금상자 올인원 묶음",
     "image": null,
-    "expectedBp": 4448224135647.27,
+    "expectedBp": 4373694463091.9243,
     "expectedValue": {
-        "bp_player": 2736656669181.8145,
+        "bp_player": 2655646155534.7,
         "bp_card": 1930500000000.0
     },
     "percentile": null,
@@ -14,9 +14,9 @@
                 "id": "7618",
                 "name": "[S2][Premium ICON TM 코인] 10개 투입 잠금상자",
                 "image": null,
-                "expectedBp": 182979011716.83997,
+                "expectedBp": 177187135847.86124,
                 "expectedValue": {
-                    "bp_player": 198890230126.99997
+                    "bp_player": 192594712878.11002
                 }
             },
             "amount": 4,
@@ -27,9 +27,9 @@
                 "id": "7619",
                 "name": "[S2][Premium ICON TM 코인] 50개 투입 잠금상자",
                 "image": null,
-                "expectedBp": 1238769362926.6365,
+                "expectedBp": 1221648639900.16,
                 "expectedValue": {
-                    "bp_player": 647031916224.6049,
+                    "bp_player": 628422434674.0868,
                     "bp_card": 643500000000.0
                 }
             },

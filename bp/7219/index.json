@@ -1,7 +1,7 @@
 {
     "id": "7219",
     "name": "행운의 BP 카드 (1억~100억 BP)",
-    "image": null,
+    "image": "/assets/images/item/200335004_s.png",
     "expectedBp": 151139466.96,
     "expectedValue": {
         "bp_card": 151139466.96

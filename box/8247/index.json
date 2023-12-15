@@ -2,9 +2,9 @@
     "id": "8247",
     "name": "[AG] 2023 디셈버 럭키 박스 - 111+",
     "image": null,
-    "expectedBp": 8472410199.143793,
+    "expectedBp": 8468918759.591171,
     "expectedValue": {
-        "bp_player": 125280952.0915799,
+        "bp_player": 121485909.09960002,
         "bp_card": 8357151723.21954
     },
     "percentile": {
@@ -29,9 +29,9 @@
                 "id": "8235",
                 "name": "[AG][23.12] CC 포함 OVR 103~104 선수팩 (7~8강)",
                 "image": null,
-                "expectedBp": 115258475924.25351,
+                "expectedBp": 111767036371.63202,
                 "expectedValue": {
-                    "bp_player": 125280952091.5799
+                    "bp_player": 121485909099.60002
                 }
             },
             "amount": 1,

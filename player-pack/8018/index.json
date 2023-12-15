@@ -2,9 +2,9 @@
     "id": "8018",
     "name": "[코인 상점] DC Top Price 100 선수팩 (8강, 107+)",
     "image": null,
-    "expectedBp": 2532623437500.0,
+    "expectedBp": 2546883437500.0,
     "expectedValue": {
-        "bp_player": 2752851562500.0
+        "bp_player": 2768351562500.0
     },
     "percentile": {
         "0": 36156000000000.0,
@@ -13,7 +13,7 @@
         "5": 7461200000000.0,
         "10": 4590800000000.0,
         "20": 2704800000000.0,
-        "30": 2097600000000.0,
+        "30": 2134400000000.0,
         "40": 2005600000000.0,
         "50": 1932000000000.0,
         "60": 1683600000000.0,
@@ -65,7 +65,7 @@
                 "upgrade": 8,
                 "pay": 29
             },
-            "value": 22400000000000,
+            "value": 23200000000000,
             "prob": 0.00078125
         },
         {
@@ -760,6 +760,21 @@
         },
         {
             "player": {
+                "id": 194,
+                "name": "스티브 맥매너먼",
+                "season": "DC",
+                "season_no": 802,
+                "ovr": 109,
+                "position": "LM",
+                "nation": null,
+                "upgrade": 8,
+                "pay": 25
+            },
+            "value": 4470000000000,
+            "prob": 0.00390625
+        },
+        {
+            "player": {
                 "id": 13038,
                 "name": "카를레스 푸욜",
                 "season": "DC",
@@ -771,21 +786,6 @@
                 "pay": 26
             },
             "value": 4240000000000,
-            "prob": 0.00390625
-        },
-        {
-            "player": {
-                "id": 194,
-                "name": "스티브 맥매너먼",
-                "season": "DC",
-                "season_no": 802,
-                "ovr": 109,
-                "position": "LM",
-                "nation": null,
-                "upgrade": 8,
-                "pay": 25
-            },
-            "value": 4060000000000,
             "prob": 0.00859375
         },
         {
@@ -820,6 +820,21 @@
         },
         {
             "player": {
+                "id": 48940,
+                "name": "페트르 체흐",
+                "season": "DC",
+                "season_no": 802,
+                "ovr": 111,
+                "position": "GK",
+                "nation": null,
+                "upgrade": 8,
+                "pay": 23
+            },
+            "value": 3560000000000,
+            "prob": 0.00859375
+        },
+        {
+            "player": {
                 "id": 208421,
                 "name": "사울",
                 "season": "DC",
@@ -831,21 +846,6 @@
                 "pay": 24
             },
             "value": 3560000000000,
-            "prob": 0.00859375
-        },
-        {
-            "player": {
-                "id": 48940,
-                "name": "페트르 체흐",
-                "season": "DC",
-                "season_no": 802,
-                "ovr": 111,
-                "position": "GK",
-                "nation": null,
-                "upgrade": 8,
-                "pay": 23
-            },
-            "value": 3480000000000,
             "prob": 0.00859375
         },
         {
@@ -910,12 +910,12 @@
         },
         {
             "player": {
-                "id": 198219,
-                "name": "로렌초 인시녜",
+                "id": 4202,
+                "name": "젠나로 가투소",
                 "season": "DC",
                 "season_no": 802,
                 "ovr": 110,
-                "position": "LW",
+                "position": "CDM",
                 "nation": null,
                 "upgrade": 8,
                 "pay": 25
@@ -925,12 +925,12 @@
         },
         {
             "player": {
-                "id": 4202,
-                "name": "젠나로 가투소",
+                "id": 198219,
+                "name": "로렌초 인시녜",
                 "season": "DC",
                 "season_no": 802,
                 "ovr": 110,
-                "position": "CDM",
+                "position": "LW",
                 "nation": null,
                 "upgrade": 8,
                 "pay": 25
@@ -1030,6 +1030,21 @@
         },
         {
             "player": {
+                "id": 206545,
+                "name": "마누 트리게로스",
+                "season": "DC",
+                "season_no": 802,
+                "ovr": 108,
+                "position": "CM",
+                "nation": null,
+                "upgrade": 8,
+                "pay": 25
+            },
+            "value": 2350000000000,
+            "prob": 0.009375
+        },
+        {
+            "player": {
                 "id": 184432,
                 "name": "아스필리쿠에타",
                 "season": "DC",
@@ -1071,7 +1086,7 @@
                 "pay": 25
             },
             "value": 2320000000000,
-            "prob": 0.009375
+            "prob": 0.01640625
         },
         {
             "player": {
@@ -1195,21 +1210,6 @@
         },
         {
             "player": {
-                "id": 206545,
-                "name": "마누 트리게로스",
-                "season": "DC",
-                "season_no": 802,
-                "ovr": 108,
-                "position": "CM",
-                "nation": null,
-                "upgrade": 8,
-                "pay": 25
-            },
-            "value": 2140000000000,
-            "prob": 0.01640625
-        },
-        {
-            "player": {
                 "id": 51539,
                 "name": "에드윈 반데르사르",
                 "season": "DC",
@@ -1255,6 +1255,21 @@
         },
         {
             "player": {
+                "id": 202335,
+                "name": "에릭 다이어",
+                "season": "DC",
+                "season_no": 802,
+                "ovr": 107,
+                "position": "CDM",
+                "nation": null,
+                "upgrade": 8,
+                "pay": 23
+            },
+            "value": 2090000000000,
+            "prob": 0.02578125
+        },
+        {
+            "player": {
                 "id": 186561,
                 "name": "아론 램지",
                 "season": "DC",
@@ -1270,17 +1285,17 @@
         },
         {
             "player": {
-                "id": 202335,
-                "name": "에릭 다이어",
+                "id": 186392,
+                "name": "조엘 워드",
                 "season": "DC",
                 "season_no": 802,
                 "ovr": 107,
-                "position": "CDM",
+                "position": "RB",
                 "nation": null,
                 "upgrade": 8,
                 "pay": 23
             },
-            "value": 1940000000000,
+            "value": 2010000000000,
             "prob": 0.02578125
         },
         {
@@ -1291,21 +1306,6 @@
                 "season_no": 802,
                 "ovr": 107,
                 "position": "LB",
-                "nation": null,
-                "upgrade": 8,
-                "pay": 23
-            },
-            "value": 1830000000000,
-            "prob": 0.02578125
-        },
-        {
-            "player": {
-                "id": 186392,
-                "name": "조엘 워드",
-                "season": "DC",
-                "season_no": 802,
-                "ovr": 107,
-                "position": "RB",
                 "nation": null,
                 "upgrade": 8,
                 "pay": 23
