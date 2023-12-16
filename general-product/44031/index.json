@@ -86,5 +86,78 @@
             "amount": 1
         }
     ],
-    "additionalInfoWithAmount": null
+    "additionalInfoWithAmount": [
+        {
+            "name": "[23.12] 빌드업 열쇠",
+            "itemList": [
+                {
+                    "amount": 1,
+                    "item": {
+                        "type": "box",
+                        "id": "8224",
+                        "name": "[23.12 빌드업] [ICON TM 0.05%] 알쏭달쏭 12월 상자",
+                        "image": null,
+                        "expectedBp": 75649666314.49048,
+                        "expectedValue": {
+                            "bp_player": 59809419907.05487,
+                            "bp_card": 20625000000.0
+                        }
+                    }
+                },
+                {
+                    "amount": 2,
+                    "item": {
+                        "type": "box",
+                        "id": "8223",
+                        "name": "[23.12 빌드업] [ICON TM 0.1%][CC 8강 1%] 상자",
+                        "image": null,
+                        "expectedBp": 161865242904.59906,
+                        "expectedValue": {
+                            "bp_player": 108141568374.56421,
+                            "bp_card": 62375000000.0
+                        }
+                    }
+                },
+                {
+                    "amount": 10,
+                    "item": {
+                        "type": "box",
+                        "id": "8221",
+                        "name": "[확률 UP!][23.12 빌드업] [ICON TM 3%][CC 8강 7%] 상자",
+                        "image": null,
+                        "expectedBp": 829428208016.4019,
+                        "expectedValue": {
+                            "bp_player": 901552400017.828
+                        }
+                    }
+                },
+                {
+                    "amount": 10,
+                    "item": {
+                        "type": "box",
+                        "id": "8222",
+                        "name": "[23.12 빌드업] [ICON TM 2%][CC 8강 7%] 상자",
+                        "image": null,
+                        "expectedBp": 819261503413.5446,
+                        "expectedValue": {
+                            "bp_player": 890501634145.1571
+                        }
+                    }
+                },
+                {
+                    "amount": 30,
+                    "item": {
+                        "type": "box",
+                        "id": "8220",
+                        "name": "[23.12 빌드업] [ICON TM 7%][CC 8강 25%] 상자",
+                        "image": null,
+                        "expectedBp": 3020490498886.929,
+                        "expectedValue": {
+                            "bp_player": 3283141846616.227
+                        }
+                    }
+                }
+            ]
+        }
+    ]
 }
