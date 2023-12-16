@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "6734",
     "name": "ICON The Moment 코인 상자 (100개 ~ 250개)",
     "image": null,
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -38,8 +39,8 @@
             "prob": 0.0909090909
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -52,8 +53,8 @@
             "prob": 0.0909090909
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -66,8 +67,8 @@
             "prob": 0.1818181818
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -80,8 +81,8 @@
             "prob": 0.2727272727
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -94,8 +95,8 @@
             "prob": 0.1818181818
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,

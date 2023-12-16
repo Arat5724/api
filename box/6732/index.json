@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "6732",
     "name": "[23.06] ICON The Moment 의뢰 상자 (8강, 95+)",
     "image": null,
@@ -26,8 +27,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[AG][23.06] ICON The Moment 선수팩 (제한)",
                 "image": null,
@@ -40,8 +41,8 @@
             "prob": 0.01
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[AG][23.06] 23HEROES 포함 Top Price 1800 (8강, 95+)",
                 "image": null,
@@ -54,8 +55,8 @@
             "prob": 0.44
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[AG] 행운의 BP 카드 (70억~120억 BP)",
                 "image": null,

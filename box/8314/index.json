@@ -1,10 +1,11 @@
 {
+    "type": "box",
     "id": "8314",
     "name": "[24.01] ICON TM 의뢰 상자",
     "image": null,
-    "expectedBp": 1364801742.99376,
+    "expectedBp": 1365104664.9303005,
     "expectedValue": {
-        "bp_player": 1483480155.428,
+        "bp_player": 1483809418.4025004,
         "[24.01] ICON 5강 + BP 상자": 0.9995
     },
     "percentile": {
@@ -25,22 +26,22 @@
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8304",
                 "name": "[AG][24.01] ICON The Moment 선수팩",
                 "image": null,
-                "expectedBp": 2729603485987.52,
+                "expectedBp": 2730209329860.6006,
                 "expectedValue": {
-                    "bp_player": 2966960310856.0
+                    "bp_player": 2967618836805.0005
                 }
             },
             "amount": 1,
             "prob": 0.0005
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[24.01] ICON 5강 + BP 상자",
                 "image": null,

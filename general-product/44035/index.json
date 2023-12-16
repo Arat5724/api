@@ -1,86 +1,87 @@
 {
+    "type": "general-product",
     "id": "44035",
     "name": "윈터 DC 드림 패키지",
-    "image": "/assets/images/item/14035_s.png",
+    "image": "14035_s",
     "price": 5800,
-    "efficiency": 124.43322559256278,
-    "expectedBp": 72171270843.68642,
+    "efficiency": 128.18646065597397,
+    "expectedBp": 74348147180.4649,
     "expectedValue": {
-        "bp_player": 61055729177.92001,
+        "bp_player": 63421899109.20099,
         "bp_card": 16000000000.0,
         "cp_card": 2000,
         "기초 훈련 교재": 30
     },
-    "efficiency1": 124.43322559256278,
-    "expectedBp1": 72171270843.68642,
+    "efficiency1": 128.18646065597397,
+    "expectedBp1": 74348147180.4649,
     "expectedValue1": {
-        "bp_player": 61055729177.92001,
+        "bp_player": 63421899109.20099,
         "bp_card": 16000000000.0,
         "cp_card": 2000,
         "기초 훈련 교재": 30
     },
     "percentile": {
-        "0": 7564800000000.0,
-        "1": 302422000000.0,
-        "2": 227285600000.0,
-        "5": 142296000000.0,
-        "10": 114815600000.0,
-        "20": 90454000000.0,
-        "30": 76782800000.0,
-        "40": 65484400000.0,
-        "50": 59192400000.0,
-        "60": 52052400000.0,
-        "70": 46790800000.0,
-        "80": 40176000000.0,
-        "90": 30957600000.0,
-        "100": 24968400000.0
+        "0": 7635640000000.0,
+        "1": 331190400000.0,
+        "2": 230984000000.0,
+        "5": 144356000000.0,
+        "10": 116177200000.0,
+        "20": 91474400000.0,
+        "30": 77775600000.0,
+        "40": 67592000000.0,
+        "50": 60765600000.0,
+        "60": 54232800000.0,
+        "70": 48456000000.0,
+        "80": 41096000000.0,
+        "90": 33119600000.0,
+        "100": 25998800000.0
     },
     "itemList": [
         {
-            "type": "player-pack",
             "item": {
+                "type": "player-pack",
                 "id": "8204",
                 "name": "DC 포함 Top Price 460 선수팩 (5강, 105+)",
-                "image": "/assets/images/item/200230211_s.png",
-                "expectedBp": 27116051690.408604,
+                "image": "200230211_s",
+                "expectedBp": 27565825249.1272,
                 "expectedValue": {
-                    "bp_player": 29473969228.705
+                    "bp_player": 29962853531.66
                 }
             },
             "amount": 1
         },
         {
-            "type": "player-pack",
             "item": {
+                "type": "player-pack",
                 "id": "8201",
                 "name": "DC 70명 지명 선수팩 (1강, 109+)",
-                "image": "/assets/images/item/200230208_s.png",
-                "expectedBp": 11150959784.508244,
+                "image": "200230208_s",
+                "expectedBp": 11941909338.246082,
                 "expectedValue": {
-                    "bp_player": 12120608461.422003
+                    "bp_player": 12980336237.224
                 }
             },
             "amount": 1
         },
         {
-            "type": "player-pack",
             "item": {
+                "type": "player-pack",
                 "id": "8202",
                 "name": "DC 포함 최종 OVR 112+ 멀티 강화 선수팩",
-                "image": "/assets/images/item/200230209_s.png",
-                "expectedBp": 17904259368.76956,
+                "image": "200230209_s",
+                "expectedBp": 18840412593.091625,
                 "expectedValue": {
-                    "bp_player": 19461151487.793003
+                    "bp_player": 20478709340.316982
                 }
             },
             "amount": 1
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "8215",
                 "name": "[300억 30%] 행운의 BP 카드 (100억, 300억)",
-                "image": "/assets/images/item/200330037_s.png",
+                "image": "200330037_s",
                 "expectedBp": 16000000000.0,
                 "expectedValue": {
                     "bp_card": 16000000000.0
@@ -89,11 +90,11 @@
             "amount": 1
         },
         {
-            "type": "cp",
             "item": {
+                "type": "cp",
                 "id": -1,
                 "name": "CP 카드 2,000",
-                "image": "/assets/images/item/202300181_s.png",
+                "image": "202300181_s",
                 "expectedBp": 0.0,
                 "expectedValue": {
                     "cp_card": 2000
@@ -102,11 +103,11 @@
             "amount": 1
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "기초 훈련 교재",
-                "image": "/assets/images/item/101800004_s.png",
+                "image": "101800004_s",
                 "expectedBp": 0.0,
                 "expectedValue": {
                     "기초 훈련 교재": 1
@@ -115,5 +116,5 @@
             "amount": 30
         }
     ],
-    "keyInfo": null
+    "additionalInfoWithAmount": null
 }

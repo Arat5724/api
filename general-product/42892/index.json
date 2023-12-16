@@ -1,7 +1,8 @@
 {
+    "type": "general-product",
     "id": "42892",
     "name": "시뮬레이션권 상자",
-    "image": "/assets/images/item/201700295_s.png",
+    "image": "201700295_s",
     "price": 20,
     "efficiency": 0.0,
     "expectedBp": 0.0,
@@ -31,11 +32,11 @@
     },
     "itemList": [
         {
-            "type": "box",
             "item": {
+                "type": "box",
                 "id": "1794",
                 "name": "시뮬레이션권 상자",
-                "image": "/assets/images/item/201700295_s.png",
+                "image": "201700295_s",
                 "expectedBp": 0.0,
                 "expectedValue": {
                     "시뮬레이션권": 5.0155763245
@@ -44,5 +45,5 @@
             "amount": 1
         }
     ],
-    "keyInfo": null
+    "additionalInfoWithAmount": null
 }

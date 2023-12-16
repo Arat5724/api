@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "4565",
     "name": "뉴 알쏭달쏭 비씨 상자",
     "image": null,
@@ -25,8 +26,8 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "3832",
                 "name": "행운의 BP 카드 (3천만~10억 BP)",
                 "image": null,
@@ -39,8 +40,8 @@
             "prob": 0.375
         },
         {
-            "type": "cp",
             "item": {
+                "type": "cp",
                 "id": "6266",
                 "name": "행운의 CP 카드 (1000~10000 CP)",
                 "image": null,
@@ -53,8 +54,8 @@
             "prob": 0.4375
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": -1,
                 "name": "BP 카드 1,000,000,000",
                 "image": null,
@@ -67,8 +68,8 @@
             "prob": 0.0625
         },
         {
-            "type": "cp",
             "item": {
+                "type": "cp",
                 "id": -1,
                 "name": "CP 카드 5,000",
                 "image": null,

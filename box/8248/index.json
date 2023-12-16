@@ -1,14 +1,15 @@
 {
+    "type": "box",
     "id": "8248",
     "name": "[AG] 2023 디셈버 럭키 박스 - 110+",
     "image": null,
-    "expectedBp": 3756465461.887682,
+    "expectedBp": 3758234783.293365,
     "expectedValue": {
-        "bp_player": 71978269.25135998,
+        "bp_player": 73901444.69232,
         "bp_card": 3690245454.1764307
     },
     "percentile": {
-        "0": 2953200000000.0,
+        "0": 2870400000000.0,
         "1": 4200000000,
         "2": 4200000000,
         "5": 4100000000,
@@ -25,22 +26,22 @@
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8236",
                 "name": "[AG][23.12] CC 포함 OVR 102~103 선수팩 (7~8강)",
                 "image": null,
-                "expectedBp": 66220007711.25119,
+                "expectedBp": 67989329116.93441,
                 "expectedValue": {
-                    "bp_player": 71978269251.35999
+                    "bp_player": 73901444692.32
                 }
             },
             "amount": 1,
             "prob": 0.001
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "8242",
                 "name": "[AG] 행운의 BP 카드 (32억~42억 BP)",
                 "image": null,

@@ -1,79 +1,80 @@
 {
+    "type": "box",
     "id": "8227",
     "name": "[23.12] 산타의 셀렉티드 멀티 강화 상자",
     "image": null,
-    "expectedBp": 47039182191.39091,
+    "expectedBp": 47134798161.150406,
     "expectedValue": {
-        "bp_player": 51129545860.207504
+        "bp_player": 51233476262.12
     },
     "percentile": {
         "0": 23000000000000.0,
-        "1": 302680000000.0,
+        "1": 299920000000.0,
         "2": 171120000000.0,
-        "5": 96600000000.0,
-        "10": 70012000000.0,
-        "20": 43700000000.0,
-        "30": 38364000000.0,
-        "40": 36248000000.0,
-        "50": 33028000000.0,
-        "60": 28152000000.0,
-        "70": 24656000000.0,
-        "80": 21896000000.0,
-        "90": 19872000000.0,
-        "100": 17296000000.0
+        "5": 95680000000.0,
+        "10": 70380000000.0,
+        "20": 42320000000.0,
+        "30": 38824000000.0,
+        "40": 36708000000.0,
+        "50": 33212000000.0,
+        "60": 28244000000.0,
+        "70": 25300000000.0,
+        "80": 21252000000.0,
+        "90": 20056000000.0,
+        "100": 14812000000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8188",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 390 선수팩 (8강, 90+)",
                 "image": null,
-                "expectedBp": 50562610998.4464,
+                "expectedBp": 48657994710.706,
                 "expectedValue": {
-                    "bp_player": 54959359780.92
+                    "bp_player": 52889124685.55
                 }
             },
             "amount": 1,
             "prob": 0.25
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8189",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 280 선수팩 (7강, 90+)",
                 "image": null,
-                "expectedBp": 60567366602.8476,
+                "expectedBp": 61309490303.3516,
                 "expectedValue": {
-                    "bp_player": 65834094133.53
+                    "bp_player": 66640750329.729996
                 }
             },
             "amount": 1,
             "prob": 0.25
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8190",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 220 선수팩 (6강, 90+)",
                 "image": null,
-                "expectedBp": 42520773373.576,
+                "expectedBp": 43821176159.04201,
                 "expectedValue": {
-                    "bp_player": 46218231927.799995
+                    "bp_player": 47631713216.350006
                 }
             },
             "amount": 1,
             "prob": 0.25
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8191",
                 "name": "23HW, 23HEROES, 23PL, 23KL Top Price 140 선수팩 (5강, 90+)",
                 "image": null,
-                "expectedBp": 34505977790.6936,
+                "expectedBp": 34750531471.50201,
                 "expectedValue": {
-                    "bp_player": 37506497598.58
+                    "bp_player": 37772316816.850006
                 }
             },
             "amount": 1,

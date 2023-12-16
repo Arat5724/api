@@ -1,7 +1,8 @@
 {
+    "type": "bp",
     "id": "8215",
     "name": "[300억 30%] 행운의 BP 카드 (100억, 300억)",
-    "image": "/assets/images/item/200330037_s.png",
+    "image": "200330037_s",
     "expectedBp": 16000000000.0,
     "expectedValue": {
         "bp_card": 16000000000.0
@@ -24,17 +25,11 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 30000000000
-            },
             "amount": 1,
             "value": 30000000000,
             "prob": 0.3
         },
         {
-            "item": {
-                "name": 10000000000
-            },
             "amount": 1,
             "value": 10000000000,
             "prob": 0.7

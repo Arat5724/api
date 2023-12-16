@@ -1,17 +1,18 @@
 {
+    "type": "box",
     "id": "8316",
     "name": "[24.01] ICON Top 70 의뢰 상자",
     "image": null,
-    "expectedBp": 771287774.2723464,
+    "expectedBp": 766625555.6381991,
     "expectedValue": {
-        "bp_player": 838356276.3829851,
+        "bp_player": 833288647.4328251,
         "[24.01] ICON Top 70 의뢰 선수팩+ICON 포인트 상자": 0.25,
         "[24.01] ICON Top 70 의뢰 BP+ICON 포인트 상자": 0.73
     },
     "percentile": {
-        "0": 2419600000000.0,
-        "1": 11040000000.0,
-        "2": 4250400000.0,
+        "0": 2401200000000.0,
+        "1": 11500000000.0,
+        "2": 4121600000.0,
         "5": 0,
         "10": 0,
         "20": 0,
@@ -26,36 +27,36 @@
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "5726",
                 "name": "[AG] ICON Top Price 70 선수팩",
                 "image": null,
-                "expectedBp": 54793754495.55933,
+                "expectedBp": 54364886640.43744,
                 "expectedValue": {
-                    "bp_player": 59558428799.52101
+                    "bp_player": 59092268087.432
                 }
             },
             "amount": 1,
             "prob": 0.005
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "5724",
                 "name": "[AG] ICON Top Price ALL 선수팩",
                 "image": null,
-                "expectedBp": 33154600119.636642,
+                "expectedBp": 32986741495.734127,
                 "expectedValue": {
-                    "bp_player": 36037608825.692
+                    "bp_player": 35855153799.711006
                 }
             },
             "amount": 1,
             "prob": 0.015
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[24.01] ICON Top 70 의뢰 선수팩+ICON 포인트 상자",
                 "image": null,
@@ -68,8 +69,8 @@
             "prob": 0.25
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[24.01] ICON Top 70 의뢰 BP+ICON 포인트 상자",
                 "image": null,

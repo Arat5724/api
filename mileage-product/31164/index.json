@@ -1,7 +1,8 @@
 {
+    "type": "mileage-product",
     "id": "31164",
     "name": "[마일리지] 행운의 BP 카드 (500만 ~ 1억 BP)",
-    "image": "/assets/images/item/200337014_s.png",
+    "image": "200337014_s",
     "price": 100,
     "efficiency": 1.3746130005000001,
     "expectedBp": 13746130.005,
@@ -31,11 +32,11 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "7922",
                 "name": "[마일리지] 행운의 BP 카드 (500만~1억 BP)",
-                "image": "/assets/images/item/200337014_s.png",
+                "image": "200337014_s",
                 "expectedBp": 13746130.005,
                 "expectedValue": {
                     "bp_card": 13746130.005
@@ -44,5 +45,5 @@
             "amount": 1
         }
     ],
-    "keyInfo": null
+    "additionalInfoWithAmount": null
 }

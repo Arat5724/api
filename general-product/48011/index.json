@@ -1,7 +1,8 @@
 {
+    "type": "general-product",
     "id": "48011",
     "name": "12월의 비씨 상자",
-    "image": "/assets/images/item/201704556_s.png",
+    "image": "201704556_s",
     "price": 600,
     "efficiency": 14.666666667999998,
     "expectedBp": 880000000.0799999,
@@ -33,11 +34,11 @@
     },
     "itemList": [
         {
-            "type": "box",
             "item": {
+                "type": "box",
                 "id": "8169",
                 "name": "12월의 비씨 상자",
-                "image": "/assets/images/item/201704556_s.png",
+                "image": "201704556_s",
                 "expectedBp": 880000000.0799999,
                 "expectedValue": {
                     "bp_card": 880000000.0799999,
@@ -47,5 +48,5 @@
             "amount": 1
         }
     ],
-    "keyInfo": null
+    "additionalInfoWithAmount": null
 }

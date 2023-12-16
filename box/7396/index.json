@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "7396",
     "name": "[확률형][고정] ICON 5강 선수 → [고정] ICON The Moment 1강 선수 의뢰",
     "image": null,
@@ -25,8 +26,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "의뢰 성공",
                 "image": null,
@@ -39,8 +40,8 @@
             "prob": 0.005
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "의뢰 실패",
                 "image": null,

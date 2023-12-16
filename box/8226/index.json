@@ -1,102 +1,103 @@
 {
+    "type": "box",
     "id": "8226",
     "name": "[DC 5강 20%] 더 퍼플 DC 에디션 상자",
-    "image": "/assets/images/item/201704575_s.png",
-    "expectedBp": 108665742136.39235,
+    "image": "201704575_s",
+    "expectedBp": 110427608094.492,
     "expectedValue": {
-        "bp_player": 102462763191.7308,
+        "bp_player": 104377834885.3174,
         "bp_card": 14400000000.0
     },
     "percentile": {
         "0": 73416000000000.0,
-        "1": 738760000000.0,
-        "2": 515200000000.0,
-        "5": 248400000000.0,
-        "10": 167440000000.0,
-        "20": 100280000000.0,
-        "30": 90160000000.0,
-        "40": 80000000000,
+        "1": 736920000000.0,
+        "2": 524400000000.0,
+        "5": 247480000000.0,
+        "10": 168360000000.0,
+        "20": 103960000000.0,
+        "30": 93840000000.0,
+        "40": 80224000000.0,
         "50": 80000000000,
-        "60": 77556000000.0,
-        "70": 68080000000.0,
-        "80": 55568000000.0,
-        "90": 39100000000.0,
-        "100": 33580000000.0
+        "60": 78936000000.0,
+        "70": 69368000000.0,
+        "80": 58144000000.0,
+        "90": 40296000000.0,
+        "100": 35512000000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8183",
                 "name": "DC Top Price 80 선수팩 (5강, 108+)",
                 "image": null,
-                "expectedBp": 149257447868.5144,
+                "expectedBp": 151998637456.04523,
                 "expectedValue": {
-                    "bp_player": 162236356378.82
+                    "bp_player": 165215910278.31003
                 }
             },
             "amount": 1,
             "prob": 0.2
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8184",
                 "name": "JVA, CC 포함 Top Price 820 선수팩 (8강, 98+)",
                 "image": null,
-                "expectedBp": 150024202758.62402,
+                "expectedBp": 155546683095.64398,
                 "expectedValue": {
-                    "bp_player": 163069785607.2
+                    "bp_player": 169072481625.69998
                 }
             },
             "amount": 1,
             "prob": 0.1
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8185",
                 "name": "JVA, CC 포함 Top Price 650 선수팩 (7강, 98+)",
                 "image": null,
-                "expectedBp": 122368802141.52881,
+                "expectedBp": 123362278245.7728,
                 "expectedValue": {
-                    "bp_player": 133009567545.14
+                    "bp_player": 134089432875.84
                 }
             },
             "amount": 1,
             "prob": 0.16
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8186",
                 "name": "JVA, CC 포함 Top Price 470 선수팩 (6강, 103+)",
                 "image": null,
-                "expectedBp": 85057097451.75882,
+                "expectedBp": 86537932370.3484,
                 "expectedValue": {
-                    "bp_player": 92453366795.39001
+                    "bp_player": 94062969967.77
                 }
             },
             "amount": 1,
             "prob": 0.18
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8187",
                 "name": "JVA, CC 포함 Top Price 270 선수팩 (5강, 104+)",
                 "image": null,
-                "expectedBp": 80680813349.2548,
+                "expectedBp": 81991221931.8456,
                 "expectedValue": {
-                    "bp_player": 87696536249.19
+                    "bp_player": 89120893404.18
                 }
             },
             "amount": 1,
             "prob": 0.18
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": -1,
                 "name": "BP 카드 800억",
                 "image": null,

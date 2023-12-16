@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "8171",
     "name": "[복귀] 12월 BP 비밀 상자",
     "image": null,
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "8165",
                 "name": "행운의 BP 카드 (800억~1600억 BP)",
                 "image": null,
@@ -38,8 +39,8 @@
             "prob": 0.1
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "7928",
                 "name": "행운의 BP 카드 (300억~600억 BP)",
                 "image": null,

@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "6916",
     "name": "BP 트레이드 의뢰 상자",
     "image": null,
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "6923",
                 "name": "[AG] 행운의 BP 카드 (5억~100억 BP)",
                 "image": null,
@@ -38,8 +39,8 @@
             "prob": 0.03
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "6924",
                 "name": "[AG] 행운의 BP 카드 (3000만~1억 BP)",
                 "image": null,

@@ -1,36 +1,37 @@
 {
+    "type": "mileage-product",
     "id": "31159",
     "name": "[마일리지][DC 획득 기회] DC 챌린지! 상자 X 3",
-    "image": "/assets/images/item/31159_s.png",
+    "image": "31159_s",
     "price": 40000,
-    "efficiency": 11.991438636091898,
-    "expectedBp": 47965754544.36759,
+    "efficiency": 12.330084690607785,
+    "expectedBp": 49320338762.431145,
     "expectedValue": {
-        "bp_player": 27680167983.00825,
+        "bp_player": 29152542133.07733,
         "bp_card": 22500000000.0
     },
-    "efficiency1": 11.991438636091898,
-    "expectedBp1": 47965754544.36759,
+    "efficiency1": 12.330084690607785,
+    "expectedBp1": 49320338762.431145,
     "expectedValue1": {
-        "bp_player": 27680167983.00825,
+        "bp_player": 29152542133.07733,
         "bp_card": 22500000000.0
     },
     "percentile": null,
     "itemList": [
         {
-            "type": "box",
             "item": {
+                "type": "box",
                 "id": "8152",
                 "name": "[마일리지][DC 획득 기회] DC 챌린지! 상자",
-                "image": "/assets/images/item/201704554_s.png",
-                "expectedBp": 15988584848.122532,
+                "image": "201704554_s",
+                "expectedBp": 16440112920.81038,
                 "expectedValue": {
-                    "bp_player": 9226722661.00275,
+                    "bp_player": 9717514044.35911,
                     "bp_card": 7500000000.0
                 }
             },
             "amount": 3
         }
     ],
-    "keyInfo": null
+    "additionalInfoWithAmount": null
 }

@@ -1,93 +1,94 @@
 {
+    "type": "box",
     "id": "8268",
     "name": "[8강팩 포함] 화이트 스노우 상자",
-    "image": "/assets/images/item/201704566_s.png",
-    "expectedBp": 101698970122.49303,
+    "image": "201704566_s",
+    "expectedBp": 103950238617.30112,
     "expectedValue": {
-        "bp_player": 110542358828.79677
+        "bp_player": 112989389801.41426
     },
     "percentile": {
         "0": 25300000000000.0,
-        "1": 386400000000.0,
-        "2": 359720000000.0,
-        "5": 276000000000.0,
-        "10": 233680000000.0,
-        "20": 133400000000.0,
-        "30": 110400000000.0,
-        "40": 83444000000.0,
-        "50": 73600000000.0,
-        "60": 68632000000.0,
-        "70": 44896000000.0,
-        "80": 38456000000.0,
-        "90": 36524000000.0,
-        "100": 1656000000.0
+        "1": 420440000000.0,
+        "2": 372600000000.0,
+        "5": 285200000000.0,
+        "10": 219880000000.0,
+        "20": 132480000000.0,
+        "30": 118680000000.0,
+        "40": 84824000000.0,
+        "50": 77004000000.0,
+        "60": 70932000000.0,
+        "70": 45080000000.0,
+        "80": 40664000000.0,
+        "90": 38640000000.0,
+        "100": 1766400000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8258",
                 "name": "DC 클래스 Top Price 100 선수팩 (5강, 107+)",
                 "image": null,
-                "expectedBp": 201682320176.568,
+                "expectedBp": 205834211719.09198,
                 "expectedValue": {
-                    "bp_player": 219219913235.4
+                    "bp_player": 223732838825.09998
                 }
             },
             "amount": 1,
             "prob": 0.0011098779
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8259",
                 "name": "JVA, CC, FCA 클래스 Top Price 130 선수팩 (5강, 100+)",
                 "image": null,
-                "expectedBp": 151963074425.69864,
+                "expectedBp": 153597542604.67554,
                 "expectedValue": {
-                    "bp_player": 165177254810.542
+                    "bp_player": 166953850657.256
                 }
             },
             "amount": 1,
             "prob": 0.0332963374
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8262",
                 "name": "[RMCF, LN 포함] Top Price 860 선수팩 (8강, 100+)",
                 "image": null,
-                "expectedBp": 98495672893.29399,
+                "expectedBp": 99200507326.57399,
                 "expectedValue": {
-                    "bp_player": 107060514014.44998
+                    "bp_player": 107826638398.44998
                 }
             },
             "amount": 1,
             "prob": 0.0776914539
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8260",
                 "name": "[JVA 포함] Top Price 500 선수팩 (4강, 106+)",
                 "image": null,
-                "expectedBp": 105400628561.24785,
+                "expectedBp": 107804481493.90274,
                 "expectedValue": {
-                    "bp_player": 114565900610.052
+                    "bp_player": 117178784232.50298
                 }
             },
             "amount": 1,
             "prob": 0.44395116539999996
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8261",
                 "name": "[FCA 포함] Top Price 400 선수팩 (4강, 106+)",
                 "image": null,
-                "expectedBp": 94538122504.25423,
+                "expectedBp": 96948940987.94508,
                 "expectedValue": {
-                    "bp_player": 102758828808.97198
+                    "bp_player": 105379283682.549
                 }
             },
             "amount": 1,

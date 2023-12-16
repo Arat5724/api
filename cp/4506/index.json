@@ -1,4 +1,5 @@
 {
+    "type": "cp",
     "id": "4506",
     "name": "[AG] 행운의 CP 카드 (100~1000 CP)",
     "image": null,
@@ -24,153 +25,96 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 1000
-            },
             "amount": 1,
             "value": 1000,
             "prob": 0.0035335689
         },
         {
-            "item": {
-                "name": 950
-            },
             "amount": 1,
             "value": 950,
             "prob": 0.0035335689
         },
         {
-            "item": {
-                "name": 900
-            },
             "amount": 1,
             "value": 900,
             "prob": 0.0035335689
         },
         {
-            "item": {
-                "name": 850
-            },
             "amount": 1,
             "value": 850,
             "prob": 0.0035335689
         },
         {
-            "item": {
-                "name": 800
-            },
             "amount": 1,
             "value": 800,
             "prob": 0.0106007067
         },
         {
-            "item": {
-                "name": 750
-            },
             "amount": 1,
             "value": 750,
             "prob": 0.0106007067
         },
         {
-            "item": {
-                "name": 700
-            },
             "amount": 1,
             "value": 700,
             "prob": 0.0106007067
         },
         {
-            "item": {
-                "name": 650
-            },
             "amount": 1,
             "value": 650,
             "prob": 0.0106007067
         },
         {
-            "item": {
-                "name": 600
-            },
             "amount": 1,
             "value": 600,
             "prob": 0.0176678445
         },
         {
-            "item": {
-                "name": 550
-            },
             "amount": 1,
             "value": 550,
             "prob": 0.0176678445
         },
         {
-            "item": {
-                "name": 500
-            },
             "amount": 1,
             "value": 500,
             "prob": 0.0176678445
         },
         {
-            "item": {
-                "name": 450
-            },
             "amount": 1,
             "value": 450,
             "prob": 0.0176678445
         },
         {
-            "item": {
-                "name": 400
-            },
             "amount": 1,
             "value": 400,
             "prob": 0.0247349823
         },
         {
-            "item": {
-                "name": 350
-            },
             "amount": 1,
             "value": 350,
             "prob": 0.035335689
         },
         {
-            "item": {
-                "name": 300
-            },
             "amount": 1,
             "value": 300,
             "prob": 0.035335689
         },
         {
-            "item": {
-                "name": 250
-            },
             "amount": 1,
             "value": 250,
             "prob": 0.035335689
         },
         {
-            "item": {
-                "name": 200
-            },
             "amount": 1,
             "value": 200,
             "prob": 0.24734982330000002
         },
         {
-            "item": {
-                "name": 150
-            },
             "amount": 1,
             "value": 150,
             "prob": 0.24734982330000002
         },
         {
-            "item": {
-                "name": 100
-            },
             "amount": 1,
             "value": 100,
             "prob": 0.24734982330000002

@@ -1,4 +1,5 @@
 {
+    "type": "cp",
     "id": "4241",
     "name": "[AG] 행운의 CP 카드 (300~700 CP)",
     "image": null,
@@ -24,329 +25,206 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 700
-            },
             "amount": 1,
             "value": 700,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 690
-            },
             "amount": 1,
             "value": 690,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 680
-            },
             "amount": 1,
             "value": 680,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 670
-            },
             "amount": 1,
             "value": 670,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 660
-            },
             "amount": 1,
             "value": 660,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 650
-            },
             "amount": 1,
             "value": 650,
             "prob": 0.0035587189
         },
         {
-            "item": {
-                "name": 640
-            },
             "amount": 1,
             "value": 640,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 630
-            },
             "amount": 1,
             "value": 630,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 620
-            },
             "amount": 1,
             "value": 620,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 610
-            },
             "amount": 1,
             "value": 610,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 600
-            },
             "amount": 1,
             "value": 600,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 590
-            },
             "amount": 1,
             "value": 590,
             "prob": 0.0106761566
         },
         {
-            "item": {
-                "name": 580
-            },
             "amount": 1,
             "value": 580,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 570
-            },
             "amount": 1,
             "value": 570,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 560
-            },
             "amount": 1,
             "value": 560,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 550
-            },
             "amount": 1,
             "value": 550,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 540
-            },
             "amount": 1,
             "value": 540,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 530
-            },
             "amount": 1,
             "value": 530,
             "prob": 0.0177935943
         },
         {
-            "item": {
-                "name": 520
-            },
             "amount": 1,
             "value": 520,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 510
-            },
             "amount": 1,
             "value": 510,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 500
-            },
             "amount": 1,
             "value": 500,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 490
-            },
             "amount": 1,
             "value": 490,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 480
-            },
             "amount": 1,
             "value": 480,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 470
-            },
             "amount": 1,
             "value": 470,
             "prob": 0.024911032
         },
         {
-            "item": {
-                "name": 460
-            },
             "amount": 1,
             "value": 460,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 450
-            },
             "amount": 1,
             "value": 450,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 440
-            },
             "amount": 1,
             "value": 440,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 430
-            },
             "amount": 1,
             "value": 430,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 420
-            },
             "amount": 1,
             "value": 420,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 410
-            },
             "amount": 1,
             "value": 410,
             "prob": 0.0320284698
         },
         {
-            "item": {
-                "name": 400
-            },
             "amount": 1,
             "value": 400,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 390
-            },
             "amount": 1,
             "value": 390,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 380
-            },
             "amount": 1,
             "value": 380,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 370
-            },
             "amount": 1,
             "value": 370,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 360
-            },
             "amount": 1,
             "value": 360,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 350
-            },
             "amount": 1,
             "value": 350,
             "prob": 0.0391459075
         },
         {
-            "item": {
-                "name": 340
-            },
             "amount": 1,
             "value": 340,
             "prob": 0.0462633452
         },
         {
-            "item": {
-                "name": 330
-            },
             "amount": 1,
             "value": 330,
             "prob": 0.0462633452
         },
         {
-            "item": {
-                "name": 320
-            },
             "amount": 1,
             "value": 320,
             "prob": 0.0462633452
         },
         {
-            "item": {
-                "name": 310
-            },
             "amount": 1,
             "value": 310,
             "prob": 0.0462633452
         },
         {
-            "item": {
-                "name": 300
-            },
             "amount": 1,
             "value": 300,
             "prob": 0.0462633452

@@ -1,144 +1,145 @@
 {
+    "type": "box",
     "id": "8228",
     "name": "더 화이트 DC 에디션 상자",
-    "image": "/assets/images/item/201704577_s.png",
-    "expectedBp": 13648092753.756084,
+    "image": "201704577_s",
+    "expectedBp": 13916894875.47386,
     "expectedValue": {
-        "bp_player": 9235155167.126179,
+        "bp_player": 9527331386.38463,
         "bp_card": 5151750000.0
     },
     "percentile": {
         "0": 73416000000000.0,
         "1": 100000000000,
-        "2": 58144000000.0,
-        "5": 37168000000.0,
-        "10": 21620000000.0,
+        "2": 58512000000.0,
+        "5": 37904000000.0,
+        "10": 22080000000.0,
         "20": 19688000000.0,
         "30": 10000000000,
-        "40": 8362800000.0,
-        "50": 7360000000.0,
+        "40": 8859600000.0,
+        "50": 7838400000.0,
         "60": 7000000000,
-        "70": 6909200000.0,
-        "80": 4140000000.0,
-        "90": 2511600000.0,
-        "100": 2162000000.0
+        "70": 7000000000,
+        "80": 4351600000.0,
+        "90": 2585200000.0,
+        "100": 2244800000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8192",
                 "name": "CC 포함 Top Price 2200 선수팩 (8강, 95+)",
                 "image": null,
-                "expectedBp": 87231279058.53625,
+                "expectedBp": 88609415024.64578,
                 "expectedValue": {
-                    "bp_player": 94816607672.322
+                    "bp_player": 96314581548.52802
                 }
             },
             "amount": 1,
             "prob": 0.005
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8193",
                 "name": "CC 포함 Top Price 1600 선수팩 (7강, 95+)",
                 "image": null,
-                "expectedBp": 42149678059.80704,
+                "expectedBp": 42987134590.68792,
                 "expectedValue": {
-                    "bp_player": 45814867456.312
+                    "bp_player": 46725146294.226
                 }
             },
             "amount": 1,
             "prob": 0.01
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8194",
                 "name": "CC 포함 Top Price 1050 선수팩 (6강, 95+)",
                 "image": null,
-                "expectedBp": 31457403356.4668,
+                "expectedBp": 32689894802.25668,
                 "expectedValue": {
-                    "bp_player": 34192829735.29
+                    "bp_player": 35532494350.279
                 }
             },
             "amount": 1,
             "prob": 0.015
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8195",
                 "name": "DC, CC Top Price 220 선수팩 (5강, 103+)",
                 "image": null,
-                "expectedBp": 35287022796.61956,
+                "expectedBp": 35536628126.0608,
                 "expectedValue": {
-                    "bp_player": 38355459561.543
+                    "bp_player": 38626769702.24
                 }
             },
             "amount": 1,
             "prob": 0.02
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8206",
                 "name": "JVA, CC 포함 Top Price 490 선수팩 (5강, 105+)",
                 "image": null,
-                "expectedBp": 15549329814.53452,
+                "expectedBp": 16071659909.15836,
                 "expectedValue": {
-                    "bp_player": 16901445450.581
+                    "bp_player": 17469195553.433
                 }
             },
             "amount": 1,
             "prob": 0.145
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8197",
                 "name": "DC 포함 Top Price 210 선수팩 (3강, 105+)",
                 "image": null,
-                "expectedBp": 8420915512.377562,
+                "expectedBp": 8898449996.01864,
                 "expectedValue": {
-                    "bp_player": 9153169035.193
+                    "bp_player": 9672228256.542
                 }
             },
             "amount": 1,
             "prob": 0.145
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8198",
                 "name": "DC 포함 Top Price 150 선수팩 (1강, 105+)",
                 "image": null,
-                "expectedBp": 5520361858.17568,
+                "expectedBp": 5836776206.5994,
                 "expectedValue": {
-                    "bp_player": 6000393324.104
+                    "bp_player": 6344321963.695
                 }
             },
             "amount": 1,
             "prob": 0.145
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8199",
                 "name": "HG 포함 Top Price 2000 선수팩 (8강, 95+)",
                 "image": null,
-                "expectedBp": 15068620894.815283,
+                "expectedBp": 15338944715.04212,
                 "expectedValue": {
-                    "bp_player": 16378935755.234003
+                    "bp_player": 16672765994.611
                 }
             },
             "amount": 1,
             "prob": 0.145
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "untitled1",
                 "name": "[1000억 10%] 행운의 BP 카드 (500억, 1000억)",
                 "image": null,
@@ -151,8 +152,8 @@
             "prob": 0.01
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "untitled2",
                 "name": "[1000억 5%] 행운의 BP 카드 (200억, 1000억)",
                 "image": null,
@@ -165,8 +166,8 @@
             "prob": 0.07
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "untitled3",
                 "name": "[500억 5%] 행운의 BP 카드 (100억, 500억)",
                 "image": null,
@@ -179,8 +180,8 @@
             "prob": 0.145
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "8216",
                 "name": "[300억 5%] 행운의 BP 카드 (70억, 300억)",
                 "image": null,

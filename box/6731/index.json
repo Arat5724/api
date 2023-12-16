@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "6731",
     "name": "[23.06] ICON The Moment 의뢰 상자 (TM)",
     "image": null,
@@ -25,8 +26,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[AG][23.06] ICON The Moment 선수팩",
                 "image": null,
@@ -39,8 +40,8 @@
             "prob": 0.5
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "[AG] 행운의 BP 카드 (3,500억~8,000억 BP)",
                 "image": null,

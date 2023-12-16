@@ -1,7 +1,8 @@
 {
+    "type": "bp",
     "id": "8457",
     "name": "[일반 4등급] 행운의 BP 카드 (50억~100억 BP)",
-    "image": "/assets/images/item/200333041_s.png",
+    "image": "200333041_s",
     "expectedBp": 6629629628.2,
     "expectedValue": {
         "bp_card": 6629629628.2
@@ -24,49 +25,31 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 10000000000
-            },
             "amount": 1,
             "value": 10000000000,
             "prob": 0.11111111109999999
         },
         {
-            "item": {
-                "name": 9000000000
-            },
             "amount": 1,
             "value": 9000000000,
             "prob": 0.037037037
         },
         {
-            "item": {
-                "name": 8000000000
-            },
             "amount": 1,
             "value": 8000000000,
             "prob": 0.037037037
         },
         {
-            "item": {
-                "name": 7000000000
-            },
             "amount": 1,
             "value": 7000000000,
             "prob": 0.037037037
         },
         {
-            "item": {
-                "name": 6000000000
-            },
             "amount": 1,
             "value": 6000000000,
             "prob": 0.7407407407
         },
         {
-            "item": {
-                "name": 5000000000
-            },
             "amount": 1,
             "value": 5000000000,
             "prob": 0.037037037

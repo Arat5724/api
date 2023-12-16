@@ -1,74 +1,75 @@
 {
+    "type": "box",
     "id": "7613",
     "name": "[S2][Premium ICON TM 코인] 3개 투입 잠금상자",
     "image": null,
-    "expectedBp": 69100759508.36089,
+    "expectedBp": 69744585050.08337,
     "expectedValue": {
-        "bp_player": 32718216856.914,
+        "bp_player": 33418027228.3515,
         "bp_card": 39000000000.0
     },
     "percentile": {
         "0": 17112000000000.0,
-        "1": 219880000000.0,
+        "1": 230000000000.0,
         "2": 150000000000,
         "5": 150000000000,
         "10": 120000000000,
         "20": 90000000000,
-        "30": 71576000000.0,
+        "30": 70932000000.0,
         "40": 60000000000,
-        "50": 55200000000.0,
-        "60": 30912000000.0,
+        "50": 57868000000.0,
+        "60": 32936000000.0,
         "70": 30000000000,
         "80": 30000000000,
         "90": 30000000000,
-        "100": 7682000000.0
+        "100": 8224800000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "7598",
                 "name": "[코인 상점] CC Top Price 60 선수팩 (5강, 106+)",
                 "image": null,
-                "expectedBp": 94563564483.38123,
+                "expectedBp": 96876361339.6324,
                 "expectedValue": {
-                    "bp_player": 102786483134.11002
+                    "bp_player": 105300392760.47
                 }
             },
             "amount": 1,
             "prob": 0.05
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "7599",
                 "name": "[코인 상점] FCA, 23HW Top Price 50 선수팩 (5강, 108+)",
                 "image": null,
-                "expectedBp": 82851941103.62363,
+                "expectedBp": 84120590549.12642,
                 "expectedValue": {
-                    "bp_player": 90056457721.33002
+                    "bp_player": 91435424509.92001
                 }
             },
             "amount": 1,
             "prob": 0.05
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "7606",
                 "name": "[코인 상점] HG, RTN, 22UCL Top Price 540 선수팩 (8강, 95+)",
                 "image": null,
-                "expectedBp": 84919936916.04256,
+                "expectedBp": 86778949822.58177,
                 "expectedValue": {
-                    "bp_player": 92304279256.568
+                    "bp_player": 94324945459.328
                 }
             },
             "amount": 1,
             "prob": 0.25
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "7387",
                 "name": "행운의 BP 카드 (300억 ~ 1500억)",
                 "image": null,

@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "6737",
     "name": "ICON The Moment 코인 상자 (10개 ~ 50개)",
     "image": null,
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -38,8 +39,8 @@
             "prob": 0.04
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -52,8 +53,8 @@
             "prob": 0.04
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -66,8 +67,8 @@
             "prob": 0.04
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -80,8 +81,8 @@
             "prob": 0.08
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -94,8 +95,8 @@
             "prob": 0.08
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -108,8 +109,8 @@
             "prob": 0.12
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -122,8 +123,8 @@
             "prob": 0.2
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,
@@ -136,8 +137,8 @@
             "prob": 0.2
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "ICON the Moment 코인",
                 "image": null,

@@ -1,7 +1,8 @@
 {
+    "type": "box",
     "id": "1794",
     "name": "시뮬레이션권 상자",
-    "image": "/assets/images/item/201700295_s.png",
+    "image": "201700295_s",
     "expectedBp": 0.0,
     "expectedValue": {
         "시뮬레이션권": 5.0155763245
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "시뮬레이션권",
                 "image": null,
@@ -38,8 +39,8 @@
             "prob": 0.031152647999999998
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "시뮬레이션권",
                 "image": null,
@@ -52,8 +53,8 @@
             "prob": 0.9345794393
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "시뮬레이션권",
                 "image": null,
@@ -66,8 +67,8 @@
             "prob": 0.031152647999999998
         },
         {
-            "type": "other",
             "item": {
+                "type": "other",
                 "id": -1,
                 "name": "시뮬레이션권",
                 "image": null,

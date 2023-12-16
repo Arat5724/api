@@ -1,4 +1,5 @@
 {
+    "type": "bp",
     "id": "untitled3",
     "name": "[500억 5%] 행운의 BP 카드 (100억, 500억)",
     "image": null,
@@ -24,17 +25,11 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 50000000000
-            },
             "amount": 1,
             "value": 50000000000,
             "prob": 0.05
         },
         {
-            "item": {
-                "name": 10000000000
-            },
             "amount": 1,
             "value": 10000000000,
             "prob": 0.95

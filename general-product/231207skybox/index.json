@@ -1,153 +1,152 @@
 {
+    "type": "general-product",
     "id": "231207skybox",
     "name": "스카이박스 패스",
-    "image": "/assets/images/product/231207skybox.png",
+    "image": "231207skybox",
     "price": 5000,
-    "efficiency": 389.0081338635217,
-    "expectedBp": 194504066931.76086,
+    "efficiency": 393.2322405365569,
+    "expectedBp": 196616120268.27847,
     "expectedValue": {
         "bp_card": 161996489326.5,
-        "bp_player": 35334323483.979195
+        "bp_player": 37630033632.367905
     },
-    "efficiency1": 389.0081338635217,
-    "expectedBp1": 194504066931.76086,
+    "efficiency1": 393.2322405365569,
+    "expectedBp1": 196616120268.27847,
     "expectedValue1": {
         "bp_card": 161996489326.5,
-        "bp_player": 35334323483.979195
+        "bp_player": 37630033632.367905
     },
     "percentile": null,
-    "additionalInfo": {
-        "100P": [
-            {
-                "type": "bp",
-                "item": {
+    "additionalInfo": [
+        {
+            "name": "100P",
+            "itemList": [
+                {
+                    "type": "bp",
                     "id": -1,
                     "name": "[SKYBOX] BP 카드 5,000,000,000",
-                    "image": "/assets/images/item/200332005_s.png",
+                    "image": "200332005_s",
                     "expectedBp": 5000000000.0,
                     "expectedValue": {
                         "bp_card": 5000000000
                     }
                 }
-            }
-        ],
-        "1000P": [
-            {
-                "type": "player-pack",
-                "item": {
+            ]
+        },
+        {
+            "name": "1000P",
+            "itemList": [
+                {
+                    "type": "player-pack",
                     "id": "8255",
                     "name": "[23HW 포함] Top Price 390 선수팩 (3강, 105+)",
-                    "image": "/assets/images/item/200232003_s.png",
-                    "expectedBp": 11063079292.92173,
+                    "image": "200232003_s",
+                    "expectedBp": 11829858343.177368,
                     "expectedValue": {
-                        "bp_player": 12025086187.958403
+                        "bp_player": 12858541677.366703
                     }
-                }
-            },
-            {
-                "type": "bp",
-                "item": {
+                },
+                {
+                    "type": "bp",
                     "id": "8263",
                     "name": "[SKYBOX] 행운의 BP 카드 (70억~150억 BP)",
-                    "image": "/assets/images/item/200332010_s.png",
+                    "image": "200332010_s",
                     "expectedBp": 10543859644.700003,
                     "expectedValue": {
                         "bp_card": 10543859644.700003
                     }
                 }
-            }
-        ],
-        "2000P": [
-            {
-                "type": "player-pack",
-                "item": {
+            ]
+        },
+        {
+            "name": "2000P",
+            "itemList": [
+                {
+                    "type": "player-pack",
                     "id": "8256",
                     "name": "[FCA 포함] Top Price 300 선수팩 (3강, 105+)",
-                    "image": "/assets/images/item/200232004_s.png",
-                    "expectedBp": 21444498312.33913,
+                    "image": "200232004_s",
+                    "expectedBp": 22789772598.601105,
                     "expectedValue": {
-                        "bp_player": 23309237296.020794
+                        "bp_player": 24771491955.0012
                     }
-                }
-            },
-            {
-                "type": "bp",
-                "item": {
+                },
+                {
+                    "type": "bp",
                     "id": "8264",
                     "name": "[SKYBOX] 행운의 BP 카드 (150억~300억 BP)",
-                    "image": "/assets/images/item/200332011_s.png",
+                    "image": "200332011_s",
                     "expectedBp": 20277777773.25,
                     "expectedValue": {
                         "bp_card": 20277777773.25
                     }
                 }
-            }
-        ],
-        "2500P": [
-            {
-                "type": "bp",
-                "item": {
+            ]
+        },
+        {
+            "name": "2500P",
+            "itemList": [
+                {
+                    "type": "bp",
                     "id": -1,
                     "name": "[SKYBOX] BP 카드 10,000,000,000",
-                    "image": "/assets/images/item/200332008_s.png",
+                    "image": "200332008_s",
                     "expectedBp": 10000000000.0,
                     "expectedValue": {
                         "bp_card": 10000000000
                     }
                 }
-            }
-        ],
-        "3000P": [
-            {
-                "type": "player-pack",
-                "item": {
+            ]
+        },
+        {
+            "name": "3000P",
+            "itemList": [
+                {
+                    "type": "player-pack",
                     "id": "8257",
                     "name": "[FCA 포함] Top Price 500 선수팩 (5강, 105+)",
-                    "image": "/assets/images/item/200232005_s.png",
-                    "expectedBp": 38032793347.70816,
+                    "image": "200232005_s",
+                    "expectedBp": 38780749258.254814,
                     "expectedValue": {
-                        "bp_player": 41339992769.248
+                        "bp_player": 42152988324.19001
                     }
-                }
-            },
-            {
-                "type": "bp",
-                "item": {
+                },
+                {
+                    "type": "bp",
                     "id": "8265",
                     "name": "[SKYBOX] 행운의 BP 카드 (300억~600억 BP)",
-                    "image": "/assets/images/item/200332012_s.png",
+                    "image": "200332012_s",
                     "expectedBp": 42575757571.5,
                     "expectedValue": {
                         "bp_card": 42575757571.5
                     }
                 }
-            }
-        ],
-        "4000P": [
-            {
-                "type": "box",
-                "item": {
+            ]
+        },
+        {
+            "name": "4000P",
+            "itemList": [
+                {
+                    "type": "box",
                     "id": "8268",
                     "name": "[8강팩 포함] 화이트 스노우 상자",
-                    "image": "/assets/images/item/201704566_s.png",
-                    "expectedBp": 101698970122.49303,
+                    "image": "201704566_s",
+                    "expectedBp": 103950238617.30112,
                     "expectedValue": {
-                        "bp_player": 110542358828.79677
+                        "bp_player": 112989389801.41426
                     }
-                }
-            },
-            {
-                "type": "bp",
-                "item": {
+                },
+                {
+                    "type": "bp",
                     "id": "8266",
                     "name": "[SKYBOX] 행운의 BP 카드 (1000억~2000억 BP)",
-                    "image": "/assets/images/item/200332013_s.png",
+                    "image": "200332013_s",
                     "expectedBp": 104420731755.0,
                     "expectedValue": {
                         "bp_card": 104420731755.0
                     }
                 }
-            }
-        ]
-    }
+            ]
+        }
+    ]
 }

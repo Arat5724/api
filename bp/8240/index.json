@@ -1,4 +1,5 @@
 {
+    "type": "bp",
     "id": "8240",
     "name": "[AG] 행운의 BP 카드 (180억~220억 BP)",
     "image": null,
@@ -24,73 +25,46 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 22000000000
-            },
             "amount": 1,
             "value": 22000000000,
             "prob": 0.04
         },
         {
-            "item": {
-                "name": 21500000000
-            },
             "amount": 1,
             "value": 21500000000,
             "prob": 0.04
         },
         {
-            "item": {
-                "name": 21000000000
-            },
             "amount": 1,
             "value": 21000000000,
             "prob": 0.12
         },
         {
-            "item": {
-                "name": 20500000000
-            },
             "amount": 1,
             "value": 20500000000,
             "prob": 0.12
         },
         {
-            "item": {
-                "name": 20000000000
-            },
             "amount": 1,
             "value": 20000000000,
             "prob": 0.2
         },
         {
-            "item": {
-                "name": 19500000000
-            },
             "amount": 1,
             "value": 19500000000,
             "prob": 0.2
         },
         {
-            "item": {
-                "name": 19000000000
-            },
             "amount": 1,
             "value": 19000000000,
             "prob": 0.12
         },
         {
-            "item": {
-                "name": 18500000000
-            },
             "amount": 1,
             "value": 18500000000,
             "prob": 0.12
         },
         {
-            "item": {
-                "name": 18000000000
-            },
             "amount": 1,
             "value": 18000000000,
             "prob": 0.04

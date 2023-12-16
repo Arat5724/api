@@ -1,7 +1,8 @@
 {
+    "type": "box",
     "id": "8169",
     "name": "12월의 비씨 상자",
-    "image": "/assets/images/item/201704556_s.png",
+    "image": "201704556_s",
     "expectedBp": 880000000.0799999,
     "expectedValue": {
         "bp_card": 880000000.0799999,
@@ -25,8 +26,8 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "8162",
                 "name": "행운의 BP 카드 (30억~60억 BP)",
                 "image": null,
@@ -39,8 +40,8 @@
             "prob": 0.2
         },
         {
-            "type": "cp",
             "item": {
+                "type": "cp",
                 "id": "8167",
                 "name": "행운의 CP 카드 (5000~10000 CP)",
                 "image": null,

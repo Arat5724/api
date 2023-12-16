@@ -1,46 +1,47 @@
 {
+    "type": "box",
     "id": "8225",
     "name": "[JVA, CC 8강 포함] 더 블랙 상자",
-    "image": "/assets/images/item/201704574_s.png",
-    "expectedBp": 82000020611.6315,
+    "image": "201704574_s",
+    "expectedBp": 82278794182.49216,
     "expectedValue": {
-        "bp_player": 57608718056.1212,
+        "bp_player": 57911732807.0567,
         "bp_card": 29000000000.0
     },
     "percentile": {
         "0": 73416000000000.0,
-        "1": 624680000000.0,
-        "2": 460000000000.0,
-        "5": 173880000000.0,
-        "10": 100280000000.0,
+        "1": 607200000000.0,
+        "2": 450800000000.0,
+        "5": 179400000000.0,
+        "10": 102120000000.0,
         "20": 100000000000,
-        "30": 65044000000.0,
+        "30": 64676000000.0,
         "40": 50000000000,
         "50": 50000000000,
         "60": 50000000000,
-        "70": 44344000000.0,
-        "80": 38456000000.0,
-        "90": 37076000000.0,
-        "100": 29440000000.0
+        "70": 43976000000.0,
+        "80": 39744000000.0,
+        "90": 37904000000.0,
+        "100": 33580000000.0
     },
     "itemList": [
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8196",
                 "name": "JVA, CC, FCA, 23HW Top Price All 선수팩 (8강)",
                 "image": null,
-                "expectedBp": 818438823331.064,
+                "expectedBp": 792442601813.4,
                 "expectedValue": {
-                    "bp_player": 889607416664.2
+                    "bp_player": 861350654145.0
                 }
             },
             "amount": 1,
             "prob": 0.01
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "7757",
                 "name": "확률 반반 BP 카드 (3000억, 5000억)",
                 "image": null,
@@ -53,36 +54,36 @@
             "prob": 0.01
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8179",
                 "name": "JVA, CC, FCA, 23HW Top Price 340 선수팩 (7강, 100+)",
                 "image": null,
-                "expectedBp": 159747839118.5672,
+                "expectedBp": 159047144589.77277,
                 "expectedValue": {
-                    "bp_player": 173638955563.66
+                    "bp_player": 172877331075.83997
                 }
             },
             "amount": 1,
             "prob": 0.06
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8180",
                 "name": "JVA, CC, FCA, 23HW Top Price 300 선수팩 (6강, 102+)",
                 "image": null,
-                "expectedBp": 65525159779.6416,
+                "expectedBp": 66958274657.22441,
                 "expectedValue": {
-                    "bp_player": 71222999760.48
+                    "bp_player": 72780733323.07
                 }
             },
             "amount": 1,
             "prob": 0.25
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": -1,
                 "name": "BP 카드 1000억",
                 "image": null,
@@ -95,22 +96,22 @@
             "prob": 0.11
         },
         {
-            "type": "playerPack",
             "item": {
+                "type": "player-pack",
                 "id": "8182",
                 "name": "DC 포함 Top Price 300 선수팩 (5강, 105+)",
                 "image": null,
-                "expectedBp": 67319543165.3444,
+                "expectedBp": 68114181516.66319,
                 "expectedValue": {
-                    "bp_player": 73173416484.06999
+                    "bp_player": 74037153822.45999
                 }
             },
             "amount": 1,
             "prob": 0.28
         },
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": -1,
                 "name": "BP 카드 500억",
                 "image": null,

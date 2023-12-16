@@ -1,7 +1,8 @@
 {
+    "type": "bp",
     "id": "8265",
     "name": "[SKYBOX] 행운의 BP 카드 (300억~600억 BP)",
-    "image": "/assets/images/item/200332012_s.png",
+    "image": "200332012_s",
     "expectedBp": 42575757571.5,
     "expectedValue": {
         "bp_card": 42575757571.5
@@ -24,57 +25,36 @@
     },
     "itemList": [
         {
-            "item": {
-                "name": 60000000000
-            },
             "amount": 1,
             "value": 60000000000,
             "prob": 0.0303030303
         },
         {
-            "item": {
-                "name": 55000000000
-            },
             "amount": 1,
             "value": 55000000000,
             "prob": 0.0909090909
         },
         {
-            "item": {
-                "name": 50000000000
-            },
             "amount": 1,
             "value": 50000000000,
             "prob": 0.1515151515
         },
         {
-            "item": {
-                "name": 45000000000
-            },
             "amount": 1,
             "value": 45000000000,
             "prob": 0.1515151515
         },
         {
-            "item": {
-                "name": 40000000000
-            },
             "amount": 1,
             "value": 40000000000,
             "prob": 0.2727272727
         },
         {
-            "item": {
-                "name": 35000000000
-            },
             "amount": 1,
             "value": 35000000000,
             "prob": 0.2727272727
         },
         {
-            "item": {
-                "name": 30000000000
-            },
             "amount": 1,
             "value": 30000000000,
             "prob": 0.0303030303

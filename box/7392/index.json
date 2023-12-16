@@ -1,4 +1,5 @@
 {
+    "type": "box",
     "id": "7392",
     "name": "[Premium ICON TM 코인] 1개 투입 잠금상자",
     "image": null,
@@ -24,8 +25,8 @@
     },
     "itemList": [
         {
-            "type": "bp",
             "item": {
+                "type": "bp",
                 "id": "7386",
                 "name": "행운의 BP 카드 (100억 ~ 500억)",
                 "image": null,
